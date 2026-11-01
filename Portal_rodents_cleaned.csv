@@ -1,0 +1,791 @@
+recordID,species,scientificName,mo,dy,yr,period,plot,note1,stake,locality,coordinates,county,state,country,sex,latitude,longitude,date
+6545,AB,Amphispiza Bilineata,9,18,1982,62,13.0,13.0,36.0,"Winterthur Gardens, Delaware",,,,UNITED STATES,,,,1982-09-18
+5220,AB,Amphispiza Bilineata,1,24,1982,54,20.0,13.0,27.0,"Winterthur Gardens, Delaware",,,,UNITED STATES,,,,1982-01-24
+7020,AH,Ammospermophilis Harrisi,11,21,1982,63,24.0,13.0,72.0,Muscogee-Rerdido [Perdido] River.,30.44972|-87.38167,Escambia,Florida,United States of America,,30.44972,-87.38167,1982-11-21
+7645,AH,Ammospermophilus Harrisii,4,16,1983,67,24.0,13.0,21.0,near Lake Lindsey.,28.63444|-82.35944,Hernando,Florida,United States of America,,28.63444,-82.35944,1983-04-16
+8641,AH,Ammospermophilus Harrisi,11,13,1983,74,15.0,13.0,25.0,road to St. Mark's lighthouse; St. Mark's Wildlife Refuge.,,Wakulla,Florida,United States of America,,,,1983-11-13
+9495,AH,Ammospermophilus Harrisii,8,26,1984,82,9.0,13.0,21.0,3.5 miles north of Allicance Cross Road on Fla. Rt. 71.,,Jackson,Florida,United States of America,,,,1984-08-26
+9583,AH,Ammospermophilus Harrisii,9,30,1984,83,15.0,13.0,37.0,"St. Vincent Island, wet swale",,,,UNITED STATES,,,,1984-09-30
+9862,AH,Ammospermophilus Harrisii,1,20,1985,86,13.0,13.0,11.0,"Eagle Mountain Trailhead, Clearwater National Forest",46.33778|-115.11639,Idaho,Idaho,UNITED STATES,,46.33778,-115.11639,1985-01-20
+9882,AH,Ammospermophilus Harrisii,1,20,1985,86,15.0,13.0,31.0,"Eagle Mountain Trailhead, Clearwater National Forest",46.33778|-115.11639,Idaho,Idaho,UNITED STATES,,46.33778,-115.11639,1985-01-20
+9891,AH,Ammospermophilus Harrisii,1,20,1985,86,1.0,13.0,43.0,"Split Creek Trail, Nez Perce National Forest",45.45|-115.91667,Idaho,Idaho,UNITED STATES,,45.45,-115.91667,1985-01-20
+9939,AH,Ammospermophilus Harrisii,2,16,1985,87,20.0,13.0,25.0,"Split Creek Trail, Nez Perce National Forest",45.45|-115.91667,Idaho,Idaho,UNITED STATES,,45.45,-115.91667,1985-02-16
+10153,AH,Ammospermophilus Harrisii,4,20,1985,-88,24.0,13.0,15.0,"Split Creek Trail, Nez Perce National Forest",45.45|-115.91667,Idaho,Idaho,UNITED STATES,,45.45,-115.91667,1985-04-20
+10450,AH,Ammospermophilus Harrisii,6,15,1985,90,19.0,13.0,13.0,"Canyon Creek Trailhead, Clearwater National Forest",45.389905|-114.804434,Idaho,Idaho,UNITED STATES,,45.389905,-114.804434,1985-06-15
+10498,AH,Ammospermophilus Harrisii,6,16,1985,90,3.0,13.0,24.0,"FS Rd 25 4.6 mi S of FS Rd 300, Gifford Pinchot National Forest",,Lewis,Washington,UNITED STATES,,,,1985-06-16
+10509,AH,Ammospermophilus Harrisii,6,16,1985,90,15.0,13.0,33.0,"FS Rd 25 4.6 mi S of FS Rd 300, Gifford Pinchot National Forest",,Lewis,Washington,UNITED STATES,,,,1985-06-16
+10694,AH,Ammospermophilus Harrisii,8,20,1985,92,15.0,13.0,33.0,"FS Rd 25 4.6 mi S of FS Rd 300, Gifford Pinchot National Forest",,Lewis,Washington,UNITED STATES,,,,1985-08-20
+15510,AH,Ammospermophilus Harrisii,2,4,1989,131,12.0,13.0,27.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1989-02-04
+15588,AH,Ammospermophilus Harrisii,2,5,1989,131,7.0,13.0,22.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1989-02-05
+15624,AH,Ammospermophilus Harrisii,2,5,1989,131,15.0,13.0,44.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1989-02-05
+15784,AH,Ammospermophilus Harrisii,3,13,1989,132,13.0,13.0,76.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1989-03-13
+15950,AH,Ammospermophilus Harrisii,4,2,1989,133,20.0,13.0,53.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1989-04-02
+15974,AH,Ammospermophilus Harrisii,5,9,1989,134,24.0,13.0,14.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1989-05-09
+16098,AH,Ammospermophilus Harrisii,6,3,1989,135,18.0,13.0,16.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1989-06-03
+16121,AH,Ammospermophilus Harrisii,6,3,1989,135,18.0,13.0,47.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1989-06-03
+16128,AH,Ammospermophilus Harrisii,6,3,1989,135,18.0,13.0,56.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1989-06-03
+16175,AH,Ammospermophilus Harrisii,6,4,1989,135,15.0,13.0,34.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1989-06-04
+16184,AH,Ammospermophilus Harrisii,6,4,1989,135,15.0,13.0,43.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1989-06-04
+16230,AH,Ammospermophilus Harrisii,7,3,1989,136,7.0,13.0,32.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1989-07-03
+16240,AH,Ammospermophilus Harrisii,7,3,1989,136,12.0,13.0,51.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1989-07-03
+16242,AH,Ammospermophilus Harrisii,7,3,1989,136,7.0,13.0,51.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1989-07-03
+16260,AH,Ammospermophilus Harrisii,7,3,1989,136,12.0,13.0,72.0,Copalinga Private Reserve-red trail (1420m),,,Zamora-Chinchipe Province,ECUADOR,,,,1989-07-03
+16263,AH,Ammospermophilus Harrisii,7,3,1989,136,23.0,13.0,73.0,Copalinga Private Reserve-red trail (1420m),,,Zamora-Chinchipe Province,ECUADOR,,,,1989-07-03
+16288,AH,Ammospermophilus Harrisii,7,4,1989,136,15.0,13.0,25.0,Copalinga Private Reserve-red trail (1420m),,,Zamora-Chinchipe Province,ECUADOR,,,,1989-07-04
+16294,AH,Ammospermophilus Harrisii,7,4,1989,136,8.0,13.0,33.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1989-07-04
+16404,AH,Ammospermophilus Harrisii,7,30,1989,137,13.0,13.0,61.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1989-07-30
+16481,AH,Ammospermophilus Harrisii,9,4,1989,138,14.0,13.0,65.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1989-09-04
+16496,AH,Ammospermophilus Harrisii,10,7,1989,139,18.0,13.0,15.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1989-10-07
+16564,AH,Ammospermophilus Harrisii,10,8,1989,139,15.0,13.0,45.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1989-10-08
+16572,AH,Ammospermophilus Harrisii,10,8,1989,139,13.0,13.0,61.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1989-10-08
+16678,AH,Ammospermophilus Harrisii,11,5,1989,140,14.0,13.0,32.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1989-11-05
+16688,AH,Ammospermophilus Harrisii,11,5,1989,140,15.0,13.0,42.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1989-11-05
+16901,AH,Ammospermophilus Harrisii,1,6,1990,142,12.0,13.0,37.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1990-01-06
+17020,AH,Ammospermophilus Harrisii,1,29,1990,143,12.0,13.0,47.0,Copalinga Private Reserve-red trail (1420m),,,Zamora-Chinchipe Province,ECUADOR,,,,1990-01-29
+17026,AH,Ammospermophilus Harrisii,1,29,1990,143,20.0,13.0,52.0,Copalinga Private Reserve-red trail (1420m),,,Zamora-Chinchipe Province,ECUADOR,,,,1990-01-29
+17204,AH,Ammospermophilus Harrisii,2,25,1990,144,14.0,13.0,41.0,Copalinga Private Reserve-red trail (1420m),,,Zamora-Chinchipe Province,ECUADOR,,,,1990-02-25
+17373,AH,Ammospermophilus Harrisii,4,24,1990,146,18.0,13.0,15.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1990-04-24
+17416,AH,Ammospermophilus Harrisii,4,25,1990,146,15.0,13.0,25.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1990-04-25
+17488,AH,Ammospermophilus Harrisii,5,23,1990,147,18.0,13.0,15.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1990-05-23
+17513,AH,Ammospermophilus Harrisii,5,24,1990,147,20.0,13.0,11.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1990-05-24
+17532,AH,Ammospermophilus Harrisii,5,24,1990,147,17.0,13.0,53.0,Reserva Biológica San Francisco-NUMEX (2070m-R2),,,Loja Province,ECUADOR,,,,1990-05-24
+17533,AH,Ammospermophilus Harrisii,5,24,1990,147,17.0,13.0,54.0,Reserva Biológica San Francisco-NUMEX (2070m-R2),,,Loja Province,ECUADOR,,,,1990-05-24
+17535,AH,Ammospermophilus Harrisii,5,24,1990,147,17.0,13.0,55.0,Reserva Biológica San Francisco-NUMEX (2070m-R2),,,Loja Province,ECUADOR,,,,1990-05-24
+17557,AH,Ammospermophilus Harrisii,5,25,1990,147,15.0,13.0,26.0,Reserva Biológica San Francisco-Transect T1 (2070m-R1),,,Loja Province,ECUADOR,,,,1990-05-25
+17577,AH,Ammospermophilus Harrisii,5,25,1990,147,6.0,13.0,76.0,Reserva Biológica San Francisco-Transect T1 (2070m-R1),,,Loja Province,ECUADOR,,,,1990-05-25
+17804,AH,Ammospermophilus Harrisii,8,17,1990,150,13.0,13.0,64.0,Reserva Biológica San Francisco-Transect T1 (2070m-R1),,,Loja Province,ECUADOR,,,,1990-08-17
+17813,AH,Ammospermophilus Harrisii,8,17,1990,150,15.0,13.0,74.0,Reserva Biológica San Francisco-Transect T1 (2070m-R1),,,Loja Province,ECUADOR,,,,1990-08-17
+17828,AH,Ammospermophilus Harrisii,9,22,1990,151,7.0,13.0,41.0,Reserva Biológica San Francisco-Transect T1 (2070m-R1),,,Loja Province,ECUADOR,,,,1990-09-22
+17836,AH,Ammospermophilus Harrisii,9,22,1990,151,7.0,13.0,53.0,Reserva Biológica San Francisco-Transect T1 (2070m-R1),,,Loja Province,ECUADOR,,,,1990-09-22
+17865,AH,Ammospermophilus Harrisii,9,25,1990,151,14.0,13.0,45.0,Reserva Biológica San Francisco-Transect T1 (2070m-R1),,,Loja Province,ECUADOR,,,,1990-09-25
+17897,AH,Ammospermophilus Harrisii,10,15,1990,152,12.0,13.0,33.0,Reserva Biológica San Francisco-Transect T1 (2070m-R1),,,Loja Province,ECUADOR,,,,1990-10-15
+17969,AH,Ammospermophilus Harrisii,10,17,1990,152,15.0,13.0,64.0,Reserva Biológica San Francisco-Transect T1 (2070m-R1),,,Loja Province,ECUADOR,,,,1990-10-17
+18002,AH,Ammospermophilus Harrisii,11,10,1990,153,23.0,13.0,51.0,Reserva Biológica San Francisco-Transect T1 (2070m-R1),,,Loja Province,ECUADOR,,,,1990-11-10
+5204,AB,Amphispiza Bilineata,1,24,1982,54,12.0,13.0,17.0,near Lake Lindsey.,28.63444|-82.35944,Hernando,Florida,United States of America,,28.63444,-82.35944,1982-01-24
+5313,AB,Amphispiza Bilineata,1,25,1982,54,13.0,13.0,63.0,road to St. Mark's lighthouse; St. Mark's Wildlife Refuge.,,Wakulla,Florida,United States of America,,,,1982-01-25
+5387,AB,Amphispiza Bilineata,2,23,1982,55,13.0,13.0,12.0,3.5 miles north of Allicance Cross Road on Fla. Rt. 71.,,Jackson,Florida,United States of America,,,,1982-02-23
+5488,AB,Amphispiza Bilineata,2,24,1982,55,2.0,13.0,53.0,"St. Vincent Island, wet swale",,,,UNITED STATES,,,,1982-02-24
+5496,AB,Amphispiza Bilineata,2,24,1982,55,2.0,13.0,71.0,"Eagle Mountain Trailhead, Clearwater National Forest",46.33778|-115.11639,Idaho,Idaho,UNITED STATES,,46.33778,-115.11639,1982-02-24
+5535,AB,Amphispiza Bilineata,3,29,1982,56,18.0,13.0,31.0,"Eagle Mountain Trailhead, Clearwater National Forest",46.33778|-115.11639,Idaho,Idaho,UNITED STATES,,46.33778,-115.11639,1982-03-29
+5643,AB,Amphispiza Bilineata,3,30,1982,56,9.0,13.0,44.0,"Split Creek Trail, Nez Perce National Forest",45.45|-115.91667,Idaho,Idaho,UNITED STATES,,45.45,-115.91667,1982-03-30
+5687,AB,Amphispiza Bilineata,4,28,1982,57,19.0,13.0,12.0,"Split Creek Trail, Nez Perce National Forest",45.45|-115.91667,Idaho,Idaho,UNITED STATES,,45.45,-115.91667,1982-04-28
+5741,AB,Amphispiza Bilineata,4,28,1982,57,20.0,13.0,62.0,"Split Creek Trail, Nez Perce National Forest",45.45|-115.91667,Idaho,Idaho,UNITED STATES,,45.45,-115.91667,1982-04-28
+5759,AB,Amphispiza Bilineata,4,28,1982,57,23.0,13.0,77.0,"Canyon Creek Trailhead, Clearwater National Forest",45.389905|-114.804434,Idaho,Idaho,UNITED STATES,,45.389905,-114.804434,1982-04-28
+5784,AB,Amphispiza Bilineata,4,29,1982,57,16.0,13.0,34.0,"FS Rd 25 4.6 mi S of FS Rd 300, Gifford Pinchot National Forest",,Lewis,Washington,UNITED STATES,,,,1982-04-29
+5821,AB,Amphispiza Bilineata,4,29,1982,57,3.0,13.0,67.0,"FS Rd 25 4.6 mi S of FS Rd 300, Gifford Pinchot National Forest",,Lewis,Washington,UNITED STATES,,,,1982-04-29
+5899,AB,Amphispiza Bilineata,5,21,1982,58,23.0,13.0,72.0,"FS Rd 25 4.6 mi S of FS Rd 300, Gifford Pinchot National Forest",,Lewis,Washington,UNITED STATES,,,,1982-05-21
+6051,AB,Amphispiza Bilineata,6,28,1982,59,10.0,13.0,74.0,Upper Hoh Rd 8.3 mi E of US 101,,Jefferson,Washington,UNITED STATES,,,,1982-06-28
+6370,AB,Amphispiza Bilineata,8,15,1982,61,6.0,13.0,44.0,Upper Hoh Rd 8.3 mi E of US 101,,Jefferson,Washington,UNITED STATES,,,,1982-08-15
+6377,AB,Amphispiza Bilineata,8,15,1982,61,23.0,13.0,47.0,Upper Hoh Rd 8.3 mi E of US 101,,Jefferson,Washington,UNITED STATES,,,,1982-08-15
+6398,AB,Amphispiza Bilineata,8,15,1982,61,23.0,13.0,62.0,Upper Hoh Rd 8.3 mi E of US 101,,Jefferson,Washington,UNITED STATES,,,,1982-08-15
+6404,AB,Amphispiza Bilineata,8,15,1982,61,23.0,13.0,66.0,"FS Rd 443 0.8 mi S of Selway River Rd, Nez Perce National Forest",46.082289|-115.425324,Idaho,Idaho,UNITED STATES,,46.082289,-115.425324,1982-08-15
+6407,AB,Amphispiza Bilineata,8,15,1982,61,23.0,13.0,67.0,"Trib of Meadow Creek, FS Rd 443 2.6 mi S of FS Rd 223, Nez Perce National Forest",45.481902|-115.931183,Idaho,Idaho,UNITED STATES,,45.481902,-115.931183,1982-08-15
+6415,AB,Amphispiza Bilineata,8,15,1982,61,23.0,13.0,75.0,"Trib of Meadow Creek, FS Rd 443 2.6 mi S of FS Rd 223, Nez Perce National Forest",45.481902|-115.931183,Idaho,Idaho,UNITED STATES,,45.481902,-115.931183,1982-08-15
+6531,AB,Amphispiza Bilineata,9,18,1982,62,9.0,13.0,26.0,"near Red River Hotsprings, Nez Perce National Forest",45.809081|-115.473482,Idaho,Idaho,UNITED STATES,,45.809081,-115.473482,1982-09-18
+6540,AB,Amphispiza Bilineata,9,18,1982,62,13.0,13.0,32.0,"Slate Creek Rd 10.2 mi E of US 95, Nez Perce National Forest",45.597618|-115.9427,Idaho,Idaho,UNITED STATES,,45.597618,-115.9427,1982-09-18
+6580,AB,Amphispiza Bilineata,9,18,1982,62,6.0,13.0,67.0,"Slate Creek Rd 10.2 mi E of US 95, Nez Perce National Forest",45.597618|-115.9427,Idaho,Idaho,UNITED STATES,,45.597618,-115.9427,1982-09-18
+6724,AB,Amphispiza Bilineata,10,23,1982,-62,8.0,5.0,51.0,"Slate Creek Rd 10.2 mi E of US 95, Nez Perce National Forest",45.597618|-115.9427,Idaho,Idaho,UNITED STATES,,45.597618,-115.9427,1982-10-23
+7137,AB,Amphispiza Bilineata,1,12,1983,64,20.0,13.0,11.0,Burgdorf Rd 12.4 mi NW of Warren Wagon Rd,45.390995|-115.855953,Idaho,Idaho,UNITED STATES,,45.390995,-115.855953,1983-01-12
+7138,AB,Amphispiza Bilineata,1,12,1983,64,20.0,13.0,12.0,Burgdorf Rd 12.4 mi NW of Warren Wagon Rd,45.390995|-115.855953,Idaho,Idaho,UNITED STATES,,45.390995,-115.855953,1983-01-12
+7140,AB,Amphispiza Bilineata,1,12,1983,64,24.0,13.0,14.0,Burgdorf Rd 12.4 mi NW of Warren Wagon Rd,45.390995|-115.855953,Idaho,Idaho,UNITED STATES,,45.390995,-115.855953,1983-01-12
+7143,AB,Amphispiza Bilineata,1,12,1983,64,20.0,13.0,14.0,FL; Franklin Co.; Apalachicola National Estuarine Sanctuary; near the Marshall House on bayside of island.,,,,UNITED STATES,,,,1983-01-12
+7146,AB,Amphispiza Bilineata,1,12,1983,64,12.0,13.0,16.0,FL; Palm Beach Co.; Sand pine scrub just W of DuBois Park on south side of Jupiter Inlet. Naturalized.,,,,UNITED STATES,,,,1983-01-12
+7150,AB,Amphispiza Bilineata,1,12,1983,64,20.0,13.0,17.0,"Florida; Pasco County; Just west of Blanton on FLA 41, ca. 2 miles east of US 75",,,,UNITED STATES,,,,1983-01-12
+7151,AB,Amphispiza Bilineata,1,12,1983,64,12.0,13.0,21.0,Florida; Leon County; near human habitation but in old hardwood forest with much beech and magnolia in ravine; on Ireland property near the Indian Mounds near Lake Jackson.,,,,UNITED STATES,,,,1983-01-12
+7171,AB,Amphispiza Bilineata,1,12,1983,64,20.0,13.0,33.0,"Florida; Leon County; in heavily wooded area, ca 1/2 mile N of entrance to Maclay Gardens State Park, Tallahassee.",,,,UNITED STATES,,,,1983-01-12
+7176,AB,Amphispiza Bilineata,1,12,1983,64,20.0,13.0,35.0,"Florida; Leon County; on wooded natural levee by the Apalachicola River, between Jim Woodruff Dam and U.S. Rt. 90 bridge, E of Sneads.",,,,UNITED STATES,,,,1983-01-12
+7180,AB,Amphispiza Bilineata,1,12,1983,64,20.0,13.0,36.0,Florida; Leon County; vicinity of the boat landing at the end of Rhoden Cove Road; west of Meridian road; on the SE shore of Lake Jackson; North of Tallahassee.,,,,UNITED STATES,,,,1983-01-12
+7183,AB,Amphispiza Bilineata,1,12,1983,64,19.0,13.0,42.0,"Florida; Jefferson County; by E edge of West Lake Rd.; near NE shore of Lake Miccosukee; 1.6 mi. S of jctn. with paved Green Rd.; SW 1/4 of NW 1/4 Sec 6, T2N R4E",,,,UNITED STATES,,,,1983-01-12
+7188,AB,Amphispiza Bilineata,1,12,1983,64,20.0,13.0,44.0,"Florida; Franklin County; floodplain of Cow Creek Landing just S of Ochlockonee River, ca. 1 mi E of hiway 319 at terminus of C-370, ca. 4.5 air mi S of town of Sopchoppy.",,,,UNITED STATES,,,,1983-01-12
+7207,AB,Amphispiza Bilineata,1,12,1983,64,12.0,13.0,55.0,"Florida; Alachua County; Mixed hardwood forest next to Williston Rd. (Hwy 331), South of Gainesville, FL, about 0.2 miles east of Hwy 121 (SW 34th Street) and 1 mile SW of Hwy 441 (Sec 3, T6S, R19E)",,,,UNITED STATES,,,,1983-01-12
+7303,AB,Amphispiza Bilineata,1,13,1983,64,2.0,13.0,72.0,Florida; Leon County; Tallahassee,,,,UNITED STATES,,,,1983-01-13
+7342,AB,Amphispiza Bilineata,2,26,1983,65,24.0,13.0,37.0,"at Waikamoi trail, Maui, Hawaii",,,,UNITED STATES,,,,1983-02-26
+7346,AB,Amphispiza Bilineata,2,26,1983,65,24.0,13.0,46.0,"at Keopuka, Maui, Hawaii",,,,UNITED STATES,,,,1983-02-26
+7360,AB,Amphispiza Bilineata,2,26,1983,65,24.0,13.0,67.0,"at Keanae Arboretum, Maui, Hawaii",,,,UNITED STATES,,,,1983-02-26
+7377,AB,Amphispiza Bilineata,2,27,1983,65,13.0,13.0,15.0,Florida; Dade County; in Miami Beach,,,,UNITED STATES,,,,1983-02-27
+7379,AB,Amphispiza Bilineata,2,27,1983,65,20.0,13.0,16.0,Florida; Brevard County; Erna Nixon Hammock; property owned by Melbourne Village.,,,,UNITED STATES,,,,1983-02-27
+7397,AB,Amphispiza Bilineata,2,27,1983,65,20.0,13.0,33.0,Florida; Martin County; Jonathan Dickinson State Park,,,,UNITED STATES,,,,1983-02-27
+7405,AB,Amphispiza Bilineata,2,27,1983,65,23.0,13.0,41.0,Florida; Lee County; Caloosahatchee Regional Park,,,,UNITED STATES,,,,1983-02-27
+7436,AB,Amphispiza Bilineata,2,27,1983,65,23.0,13.0,66.0,FL; Franklin Co.; between hiway 98 and the river opposite 3rd Street W in Carrabelle.,,,,UNITED STATES,,,,1983-02-27
+7441,AB,Amphispiza Bilineata,2,27,1983,65,3.0,13.0,71.0,FL; Bay Co.; outside fence row bordering roadside dep.,,,,UNITED STATES,,,,1983-02-27
+7465,AB,Amphispiza Bilineata,3,14,1983,66,13.0,13.0,14.0,Denkanikota,,Krishnagiri,Tamil Name,INDIA,,,,1983-03-14
+7527,AB,Amphispiza Bilineata,3,14,1983,66,13.0,13.0,72.0,"Kings Park & Botanic Garden, Fraser Avenue, West Perth WA 6005",,,,AUSTRALIA,,,,1983-03-14
+7547,AB,Amphispiza Bilineata,3,15,1983,66,9.0,13.0,13.0,"Kings Park & Botanic Garden, Fraser Avenue, West Perth WA 6005",,,,AUSTRALIA,,,,1983-03-15
+7550,AB,Amphispiza Bilineata,3,15,1983,66,6.0,13.0,14.0,"Kings Park & Botanic Garden, Fraser Avenue, West Perth WA 6005",,,,AUSTRALIA,,,,1983-03-15
+7594,AB,Amphispiza Bilineata,3,15,1983,66,2.0,13.0,46.0,"Kings Park & Botanic Garden, Fraser Avenue, West Perth WA 6005",,,,AUSTRALIA,,,,1983-03-15
+7595,AB,Amphispiza Bilineata,3,15,1983,66,1.0,13.0,47.0,"Banksia Farm, Pearce Road, Mount Barker, Western Australia",,,,AUSTRALIA,,,,1983-03-15
+7597,AB,Amphispiza Bilineata,3,15,1983,66,6.0,13.0,47.0,"Banksia Farm, Pearce Road, Mount Barker, Western Australia",,,,AUSTRALIA,,,,1983-03-15
+7611,AB,Amphispiza Bilineata,3,15,1983,66,2.0,13.0,63.0,"Banksia Farm, Pearce Road, Mount Barker, Western Australia",,,,AUSTRALIA,,,,1983-03-15
+7614,AB,Amphispiza Bilineata,3,15,1983,66,2.0,13.0,64.0,"Banksia Farm, Pearce Road, Mount Barker, Western Australia",,,,AUSTRALIA,,,,1983-03-15
+7711,AB,Amphispiza Bilineata,4,16,1983,67,23.0,13.0,76.0,"Banksia Farm, Pearce Road, Mount Barker, Western Australia",,,,AUSTRALIA,,,,1983-04-16
+7911,AB,Amphispiza Bilineata,5,15,1983,68,10.0,13.0,53.0,"Banksia Farm, Pearce Road, Mount Barker, Western Australia",,,,AUSTRALIA,,,,1983-05-15
+8052,AB,Amphispiza Bilineata,6,18,1983,69,4.0,13.0,77.0,"Banksia Farm, Pearce Road, Mount Barker, Western Australia",,,,AUSTRALIA,,,,1983-06-18
+8056,AB,Amphispiza Bilineata,7,16,1983,70,24.0,13.0,12.0,"Banksia Farm, Pearce Road, Mount Barker, Western Australia",,,,AUSTRALIA,,,,1983-07-16
+8193,AB,Amphispiza Bilineata,8,15,1983,71,22.0,13.0,55.0,"Banksia Farm, Pearce Road, Mount Barker, Western Australia",,,,AUSTRALIA,,,,1983-08-15
+8289,AB,Amphispiza Bilineata,9,10,1983,72,20.0,13.0,23.0,"Bush, W side of Albany Highway, ca. 50 km N of Mount Barker, N of turn-off to Cranbrook, in neighborhood of Trevelen Farm Winery, Western Australia",,,,AUSTRALIA,,,,1983-09-10
+8403,AB,Amphispiza Bilineata,9,11,1983,72,4.0,13.0,67.0,"Bush, W side of Albany Highway, ca. 50 km N of Mount Barker, N of turn-off to Cranbrook, in neighborhood of Trevelen Farm Winery, Western Australia",,,,AUSTRALIA,,,,1983-09-11
+8697,AB,Amphispiza Bilineata,12,8,1983,75,20.0,13.0,14.0,,,Franklin,Florida,United States of America,,,,1983-12-08
+8750,AB,Amphispiza Bilineata,12,9,1983,75,3.0,13.0,12.0,FL; Lee Co.; hammock forest; west of Bonita Beach.,,,,UNITED STATES,,,,1983-12-09
+8882,AB,Amphispiza Bilineata,2,5,1984,76,8.0,13.0,27.0,FL; Franklin Co.; St.Vincent Island,,,,UNITED STATES,,,,1984-02-05
+9015,AB,Amphispiza Bilineata,4,9,1984,78,20.0,13.0,67.0,FL; Leon Co.; Elinor Klapp-Phipps Park,,,,UNITED STATES,,,,1984-04-09
+9248,AB,Amphispiza Bilineata,5,28,1984,79,7.0,13.0,17.0,"FL; Wakulla Co.; woods; sect 7, T4S, R3W, Tallahassee meridian; 30 mi. sw Tallahassee.",,,,UNITED STATES,,,,1984-05-28
+9287,AB,Amphispiza Bilineata,7,3,1984,80,12.0,13.0,11.0,"(Camporee Field) at Wallwood Boy Scout Reservation on Ocklawaha Arm of Lake Talquin, ca. 10 air mi S of Quincy.",30.441776|-84.58333,Gadsden,Florida,United States of America,,30.441776,-84.58333,1984-07-03
+9370,AB,Amphispiza Bilineata,7,4,1984,80,3.0,13.0,77.0,FL; Franklin Co.; Tates Hell Swamp; Big Slough Branch of Whiskey George Creek; along North Boundary Rd,,,,UNITED STATES,,,,1984-07-04
+9386,AB,Amphispiza Bilineata,7,31,1984,81,6.0,13.0,36.0,"Florida; ; Floating in Withlachoochee River at Istachatta, Florida.",,,,UNITED STATES,,,,1984-07-31
+9389,AB,Amphispiza Bilineata,7,31,1984,81,23.0,13.0,47.0,valley,,Siligury,West bengal,INDIA,,,,1984-07-31
+9416,AB,Amphispiza Bilineata,8,1,1984,81,2.0,13.0,11.0,FL; Franklin Co.; just N of Avenue B in town of Apalachicola.,,,,UNITED STATES,,,,1984-08-01
+9484,AB,Amphispiza Bilineata,8,25,1984,82,6.0,13.0,71.0,"FL; Bay Co.; bordering Moccasin Creek at Blue Springs Road bridge, N of Bennett (1.8 mi S of Rte 20)",,,,UNITED STATES,,,,1984-08-25
+9569,AB,Amphispiza Bilineata,9,30,1984,83,15.0,13.0,14.0,"FL; Bay Co.; pasture; just E of Rte 77 on N side of Southport; T2S, R14W, NE1/4 SE1/4 Sec 21",,,,UNITED STATES,,,,1984-09-30
+9602,AB,Amphispiza Bilineata,9,30,1984,83,5.0,13.0,71.0,"FL; Manatee Co.; Dunes, Anna Maria Key",,,,UNITED STATES,,,,1984-09-30
+9690,AB,Amphispiza Bilineata,10,21,1984,84,1.0,13.0,47.0,"FL; Leon Co.; Elinor Klapp-Phipps Park (W of Meridian Rd, N of Tallahassee)",,,,UNITED STATES,,,,1984-10-21
+9828,AB,Amphispiza Bilineata,1,19,1985,86,14.0,13.0,43.0,FL; Franklin Co.; Dog Island; bordering large inland marsh between old dump area and the powerstation.,,,,UNITED STATES,,,,1985-01-19
+9861,AB,Amphispiza Bilineata,1,20,1985,86,10.0,13.0,11.0,"FL; Orange Co.; in lowland woods and around clearings of bay forests, east of taxiways at McCoy Field, Orlando.",,,,UNITED STATES,,,,1985-01-20
+9895,AB,Amphispiza Bilineata,1,20,1985,86,9.0,13.0,45.0,"FL; Hernando Co.; Along US 41, 2 miles n. of Brooksville; low, grazed meadow at Croom Road; fence row along US 41.",,,,UNITED STATES,,,,1985-01-20
+9941,AB,Amphispiza Bilineata,2,16,1985,87,12.0,13.0,27.0,Florida; Gulf County; E side of,,,,UNITED STATES,,,,1985-02-16
+10474,AB,Amphispiza Bilineata,6,15,1985,90,22.0,13.0,64.0,Florida; Gulf County; E side of,,,,UNITED STATES,,,,1985-06-15
+10609,AB,Amphispiza Bilineata,7,24,1985,91,10.0,13.0,53.0,Florida; Gulf County; E side of,,,,UNITED STATES,,,,1985-07-24
+10765,AB,Amphispiza Bilineata,9,21,1985,93,19.0,13.0,55.0,Florida; Gulf County; E side of,,,,UNITED STATES,,,,1985-09-21
+10963,AB,Amphispiza Bilineata,11,16,1985,95,12.0,13.0,16.0,Florida; Gulf County; E side of,,,,UNITED STATES,,,,1985-11-16
+10970,AB,Amphispiza Bilineata,11,16,1985,95,12.0,13.0,24.0,Florida; Gulf County; E side of,,,,UNITED STATES,,,,1985-11-16
+10975,AB,Amphispiza Bilineata,11,16,1985,95,24.0,13.0,32.0,"Damien, Haiti",,,,HT,,,,1985-11-16
+11095,AB,Amphispiza Bilineata,12,7,1985,96,12.0,13.0,15.0,"Damien, Haiti",,,,HT,,,,1985-12-07
+11130,AB,Amphispiza Bilineata,12,7,1985,96,17.0,13.0,61.0,"Damien, Haiti",,,,HT,,,,1985-12-07
+11200,AB,Amphispiza Bilineata,12,8,1985,96,7.0,13.0,55.0,"Damien, Haiti",,,,HT,,,,1985-12-08
+11222,AB,Amphispiza Bilineata,12,8,1985,96,7.0,13.0,74.0,"Damien, Haiti",,,,HT,,,,1985-12-08
+11301,AB,Amphispiza Bilineata,3,9,1986,97,13.0,13.0,31.0,"New Orleans, La.",,,,US,,,,1986-03-09
+11342,AB,Amphispiza Bilineata,4,12,1986,98,6.0,13.0,13.0,"New Orleans, La.",,,,US,,,,1986-04-12
+11449,AB,Amphispiza Bilineata,5,10,1986,99,6.0,13.0,23.0,"New Orleans, La.",,,,US,,,,1986-05-10
+11487,AB,Amphispiza Bilineata,5,10,1986,99,14.0,13.0,75.0,"New Orleans, La.",,,,US,,,,1986-05-10
+12081,AB,Amphispiza Bilineata,12,14,1986,106,16.0,13.0,22.0,"New Orleans, La.",,,,US,,,,1986-12-14
+12211,AB,Amphispiza Bilineata,1,31,1987,107,23.0,13.0,53.0,"Port-au-Prince, Haiti",,,,HT,,,,1987-01-31
+12246,AB,Amphispiza Bilineata,2,1,1987,107,2.0,13.0,16.0,"Port-au-Prince, Haiti",,,,HT,,,,1987-02-01
+12254,AB,Amphispiza Bilineata,2,1,1987,107,13.0,13.0,24.0,"Port-au-Prince, Haiti",,,,HT,,,,1987-02-01
+12260,AB,Amphispiza Bilineata,2,1,1987,107,15.0,13.0,31.0,"Port-au-Prince, Haiti",,,,HT,,,,1987-02-01
+12293,AB,Amphispiza Bilineata,2,1,1987,107,7.0,13.0,64.0,"Port-au-Prince, Haiti",,,,HT,,,,1987-02-01
+12345,AB,Amphispiza Bilineata,3,1,1987,108,20.0,13.0,31.0,"Port-au-Prince, Haiti",,,,HT,,,,1987-03-01
+12354,AB,Amphispiza Bilineata,3,1,1987,108,12.0,13.0,37.0,Reserva Biológica San Francisco-Transect T1 (2070m-R1),,,Loja Province,ECUADOR,,,,1987-03-01
+12368,AB,Amphispiza Bilineata,3,1,1987,108,12.0,13.0,51.0,Reserva Biológica San Francisco-Transect T1 (2070m-R1),,,Loja Province,ECUADOR,,,,1987-03-01
+12374,AB,Amphispiza Bilineata,3,1,1987,108,20.0,13.0,62.0,Reserva Biológica San Francisco-Transect T1 (2070m-R1),,,Loja Province,ECUADOR,,,,1987-03-01
+12382,AB,Amphispiza Bilineata,3,1,1987,108,23.0,13.0,67.0,Bombuscaro - Podocarpus National Park (1050m-B),,,Zamora-Chinchipe Province,ECUADOR,,,,1987-03-01
+12387,AB,Amphispiza Bilineata,3,1,1987,108,14.0,13.0,76.0,Bombuscaro - Podocarpus National Park (1050m-B),,,Zamora-Chinchipe Province,ECUADOR,,,,1987-03-01
+12405,AB,Amphispiza Bilineata,3,2,1987,108,3.0,13.0,16.0,Bombuscaro - Podocarpus National Park (1050m-B),,,Zamora-Chinchipe Province,ECUADOR,,,,1987-03-02
+12418,AB,Amphispiza Bilineata,3,2,1987,108,7.0,13.0,27.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1987-03-02
+12444,AB,Amphispiza Bilineata,3,2,1987,108,7.0,13.0,51.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1987-03-02
+12510,AB,Amphispiza Bilineata,4,4,1987,109,20.0,13.0,51.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1987-04-04
+12525,AB,Amphispiza Bilineata,4,4,1987,109,16.0,13.0,71.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1987-04-04
+12537,AB,Amphispiza Bilineata,4,6,1987,109,9.0,13.0,13.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1987-04-06
+12542,AB,Amphispiza Bilineata,4,6,1987,109,15.0,13.0,15.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1987-04-06
+12575,AB,Amphispiza Bilineata,4,6,1987,109,15.0,13.0,45.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1987-04-06
+12594,AB,Amphispiza Bilineata,4,6,1987,109,15.0,13.0,65.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1987-04-06
+12600,AB,Amphispiza Bilineata,4,6,1987,109,15.0,13.0,67.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1987-04-06
+12669,AB,Amphispiza Bilineata,4,25,1987,110,24.0,13.0,77.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1987-04-25
+12768,AB,Amphispiza Bilineata,5,28,1987,111,16.0,13.0,23.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1987-05-28
+12794,AB,Amphispiza Bilineata,5,28,1987,111,24.0,13.0,36.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1987-05-28
+12884,AB,Amphispiza Bilineata,5,28,1987,111,8.0,13.0,77.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1987-05-28
+13321,AB,Amphispiza Bilineata,8,26,1987,114,2.0,13.0,65.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1987-08-26
+13328,AB,Amphispiza Bilineata,8,26,1987,114,3.0,13.0,72.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1987-08-26
+13442,AB,Amphispiza Bilineata,9,27,1987,115,7.0,13.0,37.0,Copalinga Private Reserve-red trail (1420m),,,Zamora-Chinchipe Province,ECUADOR,,,,1987-09-27
+13636,AB,Amphispiza Bilineata,10,25,1987,116,13.0,13.0,74.0,Copalinga Private Reserve-red trail (1420m),,,Zamora-Chinchipe Province,ECUADOR,,,,1987-10-25
+13659,AB,Amphispiza Bilineata,11,21,1987,117,6.0,13.0,16.0,Copalinga Private Reserve-red trail (1420m),,,Zamora-Chinchipe Province,ECUADOR,,,,1987-11-21
+13684,AB,Amphispiza Bilineata,11,21,1987,117,12.0,13.0,41.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1987-11-21
+13775,AB,Amphispiza Bilineata,11,22,1987,117,7.0,13.0,35.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1987-11-22
+13790,AB,Amphispiza Bilineata,11,22,1987,117,7.0,13.0,45.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1987-11-22
+13829,AB,Amphispiza Bilineata,11,22,1987,117,13.0,13.0,73.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1987-11-22
+13832,AB,Amphispiza Bilineata,11,22,1987,117,15.0,13.0,74.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1987-11-22
+13856,AB,Amphispiza Bilineata,1,23,1988,118,21.0,13.0,25.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1988-01-23
+13897,AB,Amphispiza Bilineata,1,23,1988,118,24.0,13.0,67.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1988-01-23
+13901,AB,Amphispiza Bilineata,1,23,1988,118,17.0,13.0,73.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1988-01-23
+13923,AB,Amphispiza Bilineata,1,24,1988,118,13.0,13.0,13.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1988-01-24
+13979,AB,Amphispiza Bilineata,1,24,1988,118,13.0,13.0,64.0,Copalinga Private Reserve-red trail (1420m),,,Zamora-Chinchipe Province,ECUADOR,,,,1988-01-24
+14008,AB,Amphispiza Bilineata,2,21,1988,119,12.0,13.0,11.0,Copalinga Private Reserve-red trail (1420m),,,Zamora-Chinchipe Province,ECUADOR,,,,1988-02-21
+14010,AB,Amphispiza Bilineata,2,21,1988,119,24.0,13.0,12.0,Copalinga Private Reserve-red trail (1420m),,,Zamora-Chinchipe Province,ECUADOR,,,,1988-02-21
+14016,AB,Amphispiza Bilineata,2,21,1988,119,21.0,13.0,16.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1988-02-21
+14017,AB,Amphispiza Bilineata,2,21,1988,119,19.0,13.0,16.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1988-02-21
+14034,AB,Amphispiza Bilineata,2,21,1988,119,23.0,13.0,33.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1988-02-21
+14039,AB,Amphispiza Bilineata,2,21,1988,119,22.0,13.0,37.0,Copalinga Private Reserve-blue trail (1050m-C),,,Zamora-Chinchipe Province,ECUADOR,,,,1988-02-21
+14054,AB,Amphispiza Bilineata,2,21,1988,119,23.0,13.0,51.0,Reserva Biológica San Francisco-NUMEX (2070m-R2),,,Loja Province,ECUADOR,,,,1988-02-21
+14055,AB,Amphispiza Bilineata,2,21,1988,119,23.0,13.0,53.0,Reserva Biológica San Francisco-NUMEX (2070m-R2),,,Loja Province,ECUADOR,,,,1988-02-21
+14060,AB,Amphispiza Bilineata,2,21,1988,119,12.0,13.0,54.0,Reserva Biológica San Francisco-NUMEX (2070m-R2),,,Loja Province,ECUADOR,,,,1988-02-21
+14072,AB,Amphispiza Bilineata,2,21,1988,119,23.0,13.0,63.0,Reserva Biológica San Francisco-Transect T1 (2070m-R1),,,Loja Province,ECUADOR,,,,1988-02-21
+14073,AB,Amphispiza Bilineata,2,21,1988,119,1.0,13.0,64.0,Reserva Biológica San Francisco-Transect T1 (2070m-R1),,,Loja Province,ECUADOR,,,,1988-02-21
+14077,AB,Amphispiza Bilineata,2,21,1988,119,12.0,13.0,66.0,Reserva Biológica San Francisco-Transect T1 (2070m-R1),,,Loja Province,ECUADOR,,,,1988-02-21
+14078,AB,Amphispiza Bilineata,2,21,1988,119,1.0,13.0,67.0,Reserva Biológica San Francisco-Transect T1 (2070m-R1),,,Loja Province,ECUADOR,,,,1988-02-21
+14083,AB,Amphispiza Bilineata,2,21,1988,119,12.0,13.0,71.0,Reserva Biológica San Francisco-Transect T1 (2070m-R1),,,Loja Province,ECUADOR,,,,1988-02-21
+14087,AB,Amphispiza Bilineata,2,21,1988,119,1.0,13.0,73.0,Reserva Biológica San Francisco-Transect T1 (2070m-R1),,,Loja Province,ECUADOR,,,,1988-02-21
+14090,AB,Amphispiza Bilineata,2,21,1988,119,6.0,13.0,74.0,Reserva Biológica San Francisco-Transect T1 (2070m-R1),,,Loja Province,ECUADOR,,,,1988-02-21
+14106,AB,Amphispiza Bilineata,2,22,1988,119,14.0,13.0,14.0,Reserva Biológica San Francisco-Transect T1 (2070m-R1),,,Loja Province,ECUADOR,,,,1988-02-22
+14122,AB,Amphispiza Bilineata,2,22,1988,119,3.0,13.0,22.0,Reserva Biológica San Francisco-Transect T1 (2070m-R1),,,Loja Province,ECUADOR,,,,1988-02-22
+14156,AB,Amphispiza Bilineata,2,22,1988,119,10.0,13.0,47.0,Reserva Biológica San Francisco-Transect T1 (2070m-R1),,,Loja Province,ECUADOR,,,,1988-02-22
+14158,AB,Amphispiza Bilineata,2,22,1988,119,2.0,13.0,51.0,Reserva Biológica San Francisco-Transect T1 (2070m-R1),,,Loja Province,ECUADOR,,,,1988-02-22
+14182,AB,Amphispiza Bilineata,2,22,1988,119,9.0,13.0,73.0,Reserva Biológica San Francisco-Transect T1 (2070m-R1),,,Loja Province,ECUADOR,,,,1988-02-22
+14196,AB,Amphispiza Bilineata,3,20,1988,120,24.0,13.0,15.0,Copalinga Private Reserve-red trail (1420m),,,Zamora-Chinchipe Province,ECUADOR,,,,1988-03-20
+14213,AB,Amphispiza Bilineata,3,20,1988,120,12.0,13.0,31.0,Copalinga Private Reserve-red trail (1420m),,,Zamora-Chinchipe Province,ECUADOR,,,,1988-03-20
+14223,AB,Amphispiza Bilineata,3,20,1988,120,18.0,13.0,37.0,Copalinga Private Reserve-red trail (1420m),,,Zamora-Chinchipe Province,ECUADOR,,,,1988-03-20
+14224,AB,Amphispiza Bilineata,3,20,1988,120,19.0,13.0,42.0,Copalinga Private Reserve-red trail (1420m),,,Zamora-Chinchipe Province,ECUADOR,,,,1988-03-20
+14233,AB,Amphispiza Bilineata,3,20,1988,120,18.0,13.0,56.0,Copalinga Private Reserve-red trail (1420m),,,Zamora-Chinchipe Province,ECUADOR,,,,1988-03-20
+14278,AB,Amphispiza Bilineata,3,21,1988,120,8.0,13.0,22.0,Copalinga Private Reserve-red trail (1420m),,,Zamora-Chinchipe Province,ECUADOR,,,,1988-03-21
+14298,AB,Amphispiza Bilineata,3,21,1988,120,3.0,13.0,41.0,Copalinga Private Reserve-red trail (1420m),,,Zamora-Chinchipe Province,ECUADOR,,,,1988-03-21
+15030,AB,Amphispiza Bilineata,11,5,1988,128,20.0,13.0,11.0,Copalinga Private Reserve-red trail (1420m),,,Zamora-Chinchipe Province,ECUADOR,,,,1988-11-05
+15229,AB,Amphispiza Bilineata,12,14,1988,129,13.0,13.0,15.0,Copalinga Private Reserve-red trail (1420m),,,Zamora-Chinchipe Province,ECUADOR,,,,1988-12-14
+15247,AB,Amphispiza Bilineata,12,14,1988,129,13.0,13.0,31.0,Copalinga Private Reserve-red trail (1420m),,,Zamora-Chinchipe Province,ECUADOR,,,,1988-12-14
+15263,AB,Amphispiza Bilineata,12,14,1988,129,15.0,13.0,43.0,Copalinga Private Reserve-red trail (1420m),,,Zamora-Chinchipe Province,ECUADOR,,,,1988-12-14
+15276,AB,Amphispiza Bilineata,12,14,1988,129,13.0,13.0,51.0,Copalinga Private Reserve-red trail (1420m),,,Zamora-Chinchipe Province,ECUADOR,,,,1988-12-14
+15277,AB,Amphispiza Bilineata,12,14,1988,129,15.0,13.0,52.0,Copalinga Private Reserve-red trail (1420m),,,Zamora-Chinchipe Province,ECUADOR,,,,1988-12-14
+15312,AB,Amphispiza Bilineata,1,10,1989,130,12.0,13.0,14.0,Copalinga Private Reserve-red trail (1420m),,,Zamora-Chinchipe Province,ECUADOR,,,,1989-01-10
+15314,AB,Amphispiza Bilineata,1,10,1989,130,6.0,13.0,15.0,Copalinga Private Reserve-red trail (1420m),,,Zamora-Chinchipe Province,ECUADOR,,,,1989-01-10
+15315,AB,Amphispiza Bilineata,1,10,1989,130,24.0,13.0,17.0,Copalinga Private Reserve-red trail (1420m),,,Zamora-Chinchipe Province,ECUADOR,,,,1989-01-10
+15341,AB,Amphispiza Bilineata,1,10,1989,130,22.0,13.0,43.0,Copalinga Private Reserve-red trail (1420m),,,Zamora-Chinchipe Province,ECUADOR,,,,1989-01-10
+15353,AB,Amphispiza Bilineata,1,10,1989,130,16.0,13.0,51.0,Copalinga Private Reserve-red trail (1420m),,,Zamora-Chinchipe Province,ECUADOR,,,,1989-01-10
+15356,AB,Amphispiza Bilineata,1,10,1989,130,17.0,13.0,56.0,Copalinga Private Reserve-red trail (1420m),,,Zamora-Chinchipe Province,ECUADOR,,,,1989-01-10
+15386,AB,Amphispiza Bilineata,1,11,1989,130,14.0,13.0,12.0,Reserva Biológica San Francisco-NUMEX (2070m-R2),,,Loja Province,ECUADOR,,,,1989-01-11
+15426,AB,Amphispiza Bilineata,1,11,1989,130,8.0,13.0,41.0,Reserva Biológica San Francisco-NUMEX (2070m-R2),,,Loja Province,ECUADOR,,,,1989-01-11
+15429,AB,Amphispiza Bilineata,1,11,1989,130,14.0,13.0,42.0,Reserva Biológica San Francisco-NUMEX (2070m-R2),,,Loja Province,ECUADOR,,,,1989-01-11
+15432,AB,Amphispiza Bilineata,1,11,1989,130,7.0,13.0,45.0,Copalinga Private Reserve-red trail (1420m),,,Zamora-Chinchipe Province,ECUADOR,,,,1989-01-11
+15461,AB,Amphispiza Bilineata,1,11,1989,130,13.0,13.0,65.0,Copalinga Private Reserve-red trail (1420m),,,Zamora-Chinchipe Province,ECUADOR,,,,1989-01-11
+15475,AB,Amphispiza Bilineata,1,11,1989,130,7.0,13.0,73.0,Copalinga Private Reserve-red trail (1420m),,,Zamora-Chinchipe Province,ECUADOR,,,,1989-01-11
+15488,AB,Amphispiza Bilineata,2,4,1989,131,20.0,13.0,11.0,Copalinga Private Reserve-red trail (1420m),,,Zamora-Chinchipe Province,ECUADOR,,,,1989-02-04
+15738,AB,Amphispiza Bilineata,3,13,1989,132,21.0,13.0,22.0,Copalinga Private Reserve-red trail (1420m),,,Zamora-Chinchipe Province,ECUADOR,,,,1989-03-13
+15767,AB,Amphispiza Bilineata,3,13,1989,132,18.0,13.0,57.0,Copalinga Private Reserve-red trail (1420m),,,Zamora-Chinchipe Province,ECUADOR,,,,1989-03-13
+15803,AB,Amphispiza Bilineata,3,14,1989,132,9.0,13.0,23.0,Copalinga Private Reserve-red trail (1420m),,,Zamora-Chinchipe Province,ECUADOR,,,,1989-03-14
+16525,AB,Amphispiza Bilineata,10,7,1989,139,18.0,13.0,61.0,Copalinga Private Reserve-red trail (1420m),,,Zamora-Chinchipe Province,ECUADOR,,,,1989-10-07
+16557,AB,Amphispiza Bilineata,10,8,1989,139,12.0,13.0,35.0,Copalinga Private Reserve-red trail (1420m),,,Zamora-Chinchipe Province,ECUADOR,,,,1989-10-08
+16566,AB,Amphispiza Bilineata,10,8,1989,139,7.0,13.0,52.0,Copalinga Private Reserve-red trail (1420m),,,Zamora-Chinchipe Province,ECUADOR,,,,1989-10-08
+16611,AB,Amphispiza Bilineata,11,4,1989,140,21.0,13.0,31.0,Copalinga Private Reserve-red trail (1350m),,,Zamora-Chinchipe Province,ECUADOR,,,,1989-11-04
+16618,AB,Amphispiza Bilineata,11,4,1989,140,21.0,13.0,37.0,Copalinga Private Reserve-red trail (1350m),,,Zamora-Chinchipe Province,ECUADOR,,,,1989-11-04
+16691,AB,Amphispiza Bilineata,11,5,1989,140,11.0,13.0,44.0,Copalinga Private Reserve-red trail (1350m),,,Zamora-Chinchipe Province,ECUADOR,,,,1989-11-05
+16732,AB,Amphispiza Bilineata,12,4,1989,141,19.0,13.0,14.0,FL; Leon Co.; ditch along Domingo Avenue near corner of Solano Avenue in Tallahassee,,,,UNITED STATES,,,,1989-12-04
+16739,AB,Amphispiza Bilineata,12,4,1989,141,23.0,13.0,21.0,FL; Leon Co.; ditch along Domingo Avenue near corner of Solano Avenue in Tallahassee,,,,UNITED STATES,,,,1989-12-04
+16759,AB,Amphispiza Bilineata,12,4,1989,141,6.0,13.0,37.0,"FL; Monroe Co.; weedy vacant waterfront lot, Key West.",,,,UNITED STATES,,,,1989-12-04
+16769,AB,Amphispiza Bilineata,12,4,1989,141,7.0,13.0,45.0,"ca. 20 km N of Kojonup, Western Australia",,,,AUSTRALIA,,,,1989-12-04
+16771,AB,Amphispiza Bilineata,12,4,1989,141,18.0,13.0,47.0,"ca. 20 km N of Kojonup, Western Australia",,,,AUSTRALIA,,,,1989-12-04
+16772,AB,Amphispiza Bilineata,12,4,1989,141,12.0,13.0,47.0,"ca. 20 km N of Kojonup, Western Australia",,,,AUSTRALIA,,,,1989-12-04
+16777,AB,Amphispiza Bilineata,12,4,1989,141,7.0,13.0,55.0,"ca. 20 km N of Kojonup, Western Australia",,,,AUSTRALIA,,,,1989-12-04
+16808,AB,Amphispiza Bilineata,12,5,1989,141,10.0,13.0,13.0,"ca. 20 km N of Kojonup, Western Australia",,,,AUSTRALIA,,,,1989-12-05
+16846,AB,Amphispiza Bilineata,12,5,1989,141,3.0,13.0,45.0,"ca. 20 km N of Kojonup, Western Australia",,,,AUSTRALIA,,,,1989-12-05
+16892,AB,Amphispiza Bilineata,1,6,1990,142,21.0,13.0,23.0,"Bush on Hi-Vallee Farm, Tootbardi Road, Badgingarra, Western Australia 6521",,,,AUSTRALIA,,,,1990-01-06
+270,DM,Dipodomys Merriami,10,16,1977,4,1.0,,56.0,,,,,,F,,,1977-10-16
+273,DM,Dipodomys Merriami,10,16,1977,4,9.0,,61.0,,,,,,M,,,1977-10-16
+275,DM,Dipodomys Merriami,10,16,1977,4,20.0,,62.0,,,,,,M,,,1977-10-16
+280,DM,Dipodomys Merriami,10,16,1977,4,18.0,,67.0,,,,,,M,,,1977-10-16
+283,DM,Dipodomys Merriami,10,16,1977,4,6.0,,74.0,,,,,,M,,,1977-10-16
+284,DM,Dipodomys Merriami,10,16,1977,4,13.0,,74.0,,,,,,M,,,1977-10-16
+285,DM,Dipodomys Merriami,10,16,1977,4,1.0,,75.0,,,,,,M,,,1977-10-16
+287,DM,Dipodomys Merriami,10,17,1977,4,17.0,,11.0,,,,,,M,,,1977-10-17
+288,DM,Dipodomys Merriami,10,17,1977,4,17.0,,14.0,,,,,,M,,,1977-10-17
+289,DM,Dipodomys Merriami,10,17,1977,4,14.0,,15.0,,,,,,M,,,1977-10-17
+290,DM,Dipodomys Merriami,10,17,1977,4,17.0,,15.0,,,,,,F,,,1977-10-17
+293,DM,Dipodomys Merriami,10,17,1977,4,4.0,,23.0,,,,,,F,,,1977-10-17
+295,DM,Dipodomys Merriami,10,17,1977,4,11.0,,24.0,,,,,,M,,,1977-10-17
+298,DM,Dipodomys Merriami,10,17,1977,4,19.0,,26.0,,,,,,M,,,1977-10-17
+302,DM,Dipodomys Merriami,10,17,1977,4,19.0,,35.0,,,,,,F,,,1977-10-17
+303,DM,Dipodomys Merriami,10,17,1977,4,3.0,,36.0,,,,,,M,,,1977-10-17
+304,DM,Dipodomys Merriami,10,17,1977,4,21.0,,41.0,,,,,,M,,,1977-10-17
+305,DM,Dipodomys Merriami,10,17,1977,4,14.0,,42.0,,,,,,F,,,1977-10-17
+306,DM,Dipodomys Merriami,10,17,1977,4,16.0,,42.0,,,,,,M,,,1977-10-17
+307,DM,Dipodomys Merriami,10,17,1977,4,19.0,,46.0,,,,,,M,,,1977-10-17
+312,DM,Dipodomys Merriami,10,17,1977,4,11.0,,53.0,,,,,,F,,,1977-10-17
+313,DM,Dipodomys Merriami,10,17,1977,4,19.0,,53.0,,,,,,M,,,1977-10-17
+315,DM,Dipodomys Merriami,10,17,1977,4,3.0,,62.0,,,,,,M,,,1977-10-17
+316,DM,Dipodomys Merriami,10,17,1977,4,15.0,,62.0,,,,,,M,,,1977-10-17
+318,DM,Dipodomys Merriami,10,17,1977,4,17.0,,66.0,,,,,,M,,,1977-10-17
+319,DM,Dipodomys Merriami,10,17,1977,4,14.0,,72.0,,,,,,M,,,1977-10-17
+320,DM,Dipodomys Merriami,10,17,1977,4,17.0,,72.0,,,,,,F,,,1977-10-17
+328,DM,Dipodomys Merriami,10,18,1977,4,16.0,,11.0,,,,,,F,,,1977-10-18
+330,DM,Dipodomys Merriami,10,18,1977,4,5.0,,21.0,,,,,,M,,,1977-10-18
+334,DM,Dipodomys Merriami,10,18,1977,4,5.0,,24.0,,,,,,F,,,1977-10-18
+336,DM,Dipodomys Merriami,10,18,1977,4,12.0,,27.0,,,,,,M,,,1977-10-18
+338,DM,Dipodomys Merriami,10,18,1977,4,12.0,,51.0,,,,,,M,,,1977-10-18
+340,DM,Dipodomys Merriami,10,18,1977,4,12.0,,54.0,,,,,,F,,,1977-10-18
+342,DM,Dipodomys Merriami,10,18,1977,4,16.0,,57.0,,,,,,M,,,1977-10-18
+345,DM,Dipodomys Merriami,11,12,1977,5,22.0,,11.0,,,,,,F,,,1977-11-12
+346,DM,Dipodomys Merriami,11,12,1977,5,2.0,,13.0,,,,,,F,,,1977-11-12
+347,DM,Dipodomys Merriami,11,12,1977,5,6.0,,14.0,,,,,,F,,,1977-11-12
+348,DM,Dipodomys Merriami,11,12,1977,5,13.0,,14.0,,,,,,M,,,1977-11-12
+350,DM,Dipodomys Merriami,11,12,1977,5,2.0,,17.0,,,,,,M,,,1977-11-12
+352,DM,Dipodomys Merriami,11,12,1977,5,1.0,,23.0,,,,,,M,,,1977-11-12
+354,DM,Dipodomys Merriami,11,12,1977,5,2.0,,34.0,,,,,,M,,,1977-11-12
+359,DM,Dipodomys Merriami,11,12,1977,5,18.0,,43.0,,,,,,M,,,1977-11-12
+360,DM,Dipodomys Merriami,11,12,1977,5,20.0,,43.0,,,,,,F,,,1977-11-12
+361,DM,Dipodomys Merriami,11,12,1977,5,2.0,,47.0,,,,,,F,,,1977-11-12
+364,DM,Dipodomys Merriami,11,12,1977,5,9.0,,54.0,,,,,,M,,,1977-11-12
+365,DM,Dipodomys Merriami,11,12,1977,5,1.0,,56.0,,,,,,F,,,1977-11-12
+369,DM,Dipodomys Merriami,11,12,1977,5,20.0,,57.0,,,,,,F,,,1977-11-12
+370,DM,Dipodomys Merriami,11,12,1977,5,9.0,,61.0,,,,,,M,,,1977-11-12
+371,DM,Dipodomys Merriami,11,12,1977,5,13.0,,62.0,,,,,,M,,,1977-11-12
+372,DM,Dipodomys Merriami,11,12,1977,5,22.0,,62.0,,,,,,F,,,1977-11-12
+373,DM,Dipodomys Merriami,11,12,1977,5,6.0,,64.0,,,,,,M,,,1977-11-12
+374,DM,Dipodomys Merriami,11,12,1977,5,18.0,,65.0,,,,,,M,,,1977-11-12
+379,DM,Dipodomys Merriami,11,13,1977,5,14.0,,12.0,,,,,,M,,,1977-11-13
+380,DM,Dipodomys Merriami,11,13,1977,5,17.0,,15.0,,,,,,F,,,1977-11-13
+382,DM,Dipodomys Merriami,11,13,1977,5,17.0,,21.0,,,,,,M,,,1977-11-13
+384,DM,Dipodomys Merriami,11,13,1977,5,11.0,,31.0,,,,,,M,,,1977-11-13
+388,DM,Dipodomys Merriami,11,13,1977,5,11.0,,45.0,,,,,,F,,,1977-11-13
+395,DM,Dipodomys Merriami,11,13,1977,5,14.0,,63.0,,,,,,M,,,1977-11-13
+396,DM,Dipodomys Merriami,11,13,1977,5,14.0,,64.0,,,,,,F,,,1977-11-13
+399,DM,Dipodomys Merriami,11,13,1977,5,17.0,,72.0,,,,,,F,,,1977-11-13
+404,DM,Dipodomys Merriami,11,14,1977,5,12.0,,17.0,,,,,,M,,,1977-11-14
+409,DM,Dipodomys Merriami,11,14,1977,5,12.0,,33.0,,,,,,F,,,1977-11-14
+411,DM,Dipodomys Merriami,11,14,1977,5,5.0,,52.0,,,,,,M,,,1977-11-14
+415,DM,Dipodomys Merriami,11,14,1977,5,5.0,,66.0,,,,,,F,,,1977-11-14
+420,DM,Dipodomys Merriami,12,10,1977,6,13.0,,11.0,,,,,,F,,,1977-12-10
+422,DM,Dipodomys Merriami,12,10,1977,6,2.0,,13.0,,,,,,F,,,1977-12-10
+423,DM,Dipodomys Merriami,12,10,1977,6,13.0,,15.0,,,,,,M,,,1977-12-10
+424,DM,Dipodomys Merriami,12,10,1977,6,2.0,,16.0,,,,,,M,,,1977-12-10
+425,DM,Dipodomys Merriami,12,10,1977,6,20.0,,17.0,,,,,,F,,,1977-12-10
+426,DM,Dipodomys Merriami,12,10,1977,6,22.0,,17.0,,,,,,M,,,1977-12-10
+427,DM,Dipodomys Merriami,12,10,1977,6,2.0,,22.0,,,,,,F,,,1977-12-10
+429,DM,Dipodomys Merriami,12,10,1977,6,1.0,,24.0,,,,,,M,,,1977-12-10
+433,DM,Dipodomys Merriami,12,10,1977,6,9.0,,34.0,,,,,,M,,,1977-12-10
+436,DM,Dipodomys Merriami,12,10,1977,6,18.0,,47.0,,,,,,F,,,1977-12-10
+437,DM,Dipodomys Merriami,12,10,1977,6,18.0,,52.0,,,,,,F,,,1977-12-10
+438,DM,Dipodomys Merriami,12,10,1977,6,2.0,,53.0,,,,,,M,,,1977-12-10
+439,DM,Dipodomys Merriami,12,10,1977,6,20.0,,53.0,,,,,,F,,,1977-12-10
+443,DM,Dipodomys Merriami,12,10,1977,6,13.0,,63.0,,,,,,M,,,1977-12-10
+444,DM,Dipodomys Merriami,12,10,1977,6,6.0,,64.0,,,,,,M,,,1977-12-10
+447,DM,Dipodomys Merriami,12,10,1977,6,18.0,,67.0,,,,,,M,,,1977-12-10
+449,DM,Dipodomys Merriami,12,10,1977,6,2.0,,71.0,,,,,,M,,,1977-12-10
+453,DM,Dipodomys Merriami,12,10,1977,6,9.0,,76.0,,,,,,M,,,1977-12-10
+454,DM,Dipodomys Merriami,12,10,1977,6,1.0,,77.0,,,,,,F,,,1977-12-10
+461,DM,Dipodomys Merriami,12,11,1977,6,14.0,,12.0,,,,,,M,,,1977-12-11
+462,DM,Dipodomys Merriami,12,11,1977,6,17.0,,13.0,,,,,,M,,,1977-12-11
+468,DM,Dipodomys Merriami,12,11,1977,6,11.0,,22.0,,,,,,M,,,1977-12-11
+479,DM,Dipodomys Merriami,12,11,1977,6,14.0,,34.0,,,,,,F,,,1977-12-11
+481,DM,Dipodomys Merriami,12,11,1977,6,17.0,,36.0,,,,,,F,,,1977-12-11
+482,DM,Dipodomys Merriami,12,11,1977,6,17.0,,41.0,,,,,,M,,,1977-12-11
+484,DM,Dipodomys Merriami,12,11,1977,6,11.0,,43.0,,,,,,F,,,1977-12-11
+487,DM,Dipodomys Merriami,12,11,1977,6,12.0,,54.0,,,,,,F,,,1977-12-11
+488,DM,Dipodomys Merriami,12,11,1977,6,12.0,,56.0,,,,,,M,,,1977-12-11
+490,DM,Dipodomys Merriami,12,11,1977,6,14.0,,63.0,,,,,,M,,,1977-12-11
+496,DM,Dipodomys Merriami,12,11,1977,6,17.0,,71.0,,,,,,F,,,1977-12-11
+502,DM,Dipodomys Merriami,12,11,1977,6,5.0,,77.0,,,,,,F,,,1977-12-11
+505,DM,Dipodomys Merriami,1,8,1978,7,13.0,,13.0,,,,,,M,,,1978-01-08
+507,DM,Dipodomys Merriami,1,8,1978,7,2.0,,17.0,,,,,,M,,,1978-01-08
+508,DM,Dipodomys Merriami,1,8,1978,7,20.0,,17.0,,,,,,F,,,1978-01-08
+511,DM,Dipodomys Merriami,1,8,1978,7,2.0,,25.0,,,,,,M,,,1978-01-08
+516,DM,Dipodomys Merriami,1,8,1978,7,9.0,,43.0,,,,,,M,,,1978-01-08
+518,DM,Dipodomys Merriami,1,8,1978,7,2.0,,47.0,,,,,,M,,,1978-01-08
+519,DM,Dipodomys Merriami,1,8,1978,7,2.0,,54.0,,,,,,M,,,1978-01-08
+521,DM,Dipodomys Merriami,1,8,1978,7,2.0,,55.0,,,,,,M,,,1978-01-08
+522,DM,Dipodomys Merriami,1,8,1978,7,2.0,,61.0,,,,,,F,,,1978-01-08
+523,DM,Dipodomys Merriami,1,8,1978,7,2.0,,62.0,,,,,,M,,,1978-01-08
+524,DM,Dipodomys Merriami,1,8,1978,7,20.0,,62.0,,,,,,,,,1978-01-08
+525,DM,Dipodomys Merriami,1,8,1978,7,6.0,,64.0,,,,,,M,,,1978-01-08
+527,DM,Dipodomys Merriami,1,8,1978,7,2.0,,66.0,,,,,,F,,,1978-01-08
+529,DM,Dipodomys Merriami,1,8,1978,7,9.0,,67.0,,,,,,M,,,1978-01-08
+530,DM,Dipodomys Merriami,1,8,1978,7,13.0,,74.0,,,,,,M,,,1978-01-08
+533,DM,Dipodomys Merriami,1,8,1978,7,2.0,,76.0,,,,,,M,,,1978-01-08
+538,DM,Dipodomys Merriami,1,9,1978,7,17.0,,14.0,,,,,,M,,,1978-01-09
+539,DM,Dipodomys Merriami,1,9,1978,7,17.0,,16.0,,,,,,F,,,1978-01-09
+541,DM,Dipodomys Merriami,1,9,1978,7,11.0,,31.0,,,,,,M,,,1978-01-09
+542,DM,Dipodomys Merriami,1,9,1978,7,1.0,,32.0,,,,,,M,,,1978-01-09
+545,DM,Dipodomys Merriami,1,9,1978,7,1.0,,36.0,,,,,,F,,,1978-01-09
+549,DM,Dipodomys Merriami,1,9,1978,7,11.0,,44.0,,,,,,M,,,1978-01-09
+550,DM,Dipodomys Merriami,1,9,1978,7,14.0,,46.0,,,,,,F,,,1978-01-09
+556,DM,Dipodomys Merriami,1,9,1978,7,17.0,,62.0,,,,,,F,,,1978-01-09
+557,DM,Dipodomys Merriami,1,9,1978,7,11.0,,67.0,,,,,,F,,,1978-01-09
+559,DM,Dipodomys Merriami,1,9,1978,7,14.0,,72.0,,,,,,M,,,1978-01-09
+566,DM,Dipodomys Merriami,1,10,1978,7,18.0,,22.0,,,,,,F,,,1978-01-10
+567,DM,Dipodomys Merriami,1,10,1978,7,12.0,,23.0,,,,,,F,,,1978-01-10
+571,DM,Dipodomys Merriami,1,10,1978,7,18.0,,27.0,,,,,,F,,,1978-01-10
+572,DM,Dipodomys Merriami,1,10,1978,7,18.0,,33.0,,,,,,M,,,1978-01-10
+574,DM,Dipodomys Merriami,1,10,1978,7,18.0,,37.0,,,,,,F,,,1978-01-10
+575,DM,Dipodomys Merriami,1,10,1978,7,18.0,,41.0,,,,,,M,,,1978-01-10
+576,DM,Dipodomys Merriami,1,10,1978,7,18.0,,44.0,,,,,,M,,,1978-01-10
+578,DM,Dipodomys Merriami,1,10,1978,7,18.0,,46.0,,,,,,M,,,1978-01-10
+579,DM,Dipodomys Merriami,1,10,1978,7,5.0,,55.0,,,,,,F,,,1978-01-10
+580,DM,Dipodomys Merriami,1,10,1978,7,12.0,,67.0,,,,,,M,,,1978-01-10
+586,DM,Dipodomys Merriami,2,18,1978,8,13.0,,15.0,,,,,,M,,,1978-02-18
+589,DM,Dipodomys Merriami,2,18,1978,8,20.0,,17.0,,,,,,F,,,1978-02-18
+591,DM,Dipodomys Merriami,2,18,1978,8,6.0,,31.0,,,,,,F,,,1978-02-18
+592,DM,Dipodomys Merriami,2,18,1978,8,22.0,,31.0,,,,,,M,,,1978-02-18
+593,DM,Dipodomys Merriami,2,18,1978,8,2.0,,46.0,,,,,,M,,,1978-02-18
+594,DM,Dipodomys Merriami,2,18,1978,8,9.0,,52.0,,,,,,M,,,1978-02-18
+595,DM,Dipodomys Merriami,2,18,1978,8,2.0,,53.0,,,,,,M,,,1978-02-18
+597,DM,Dipodomys Merriami,2,18,1978,8,20.0,,53.0,,,,,,F,,,1978-02-18
+600,DM,Dipodomys Merriami,2,18,1978,8,2.0,,56.0,,,,,,F,,,1978-02-18
+601,DM,Dipodomys Merriami,2,18,1978,8,2.0,,63.0,,,,,,M,,,1978-02-18
+602,DM,Dipodomys Merriami,2,18,1978,8,13.0,,63.0,,,,,,M,,,1978-02-18
+607,DM,Dipodomys Merriami,2,19,1978,8,5.0,,12.0,,,,,,F,,,1978-02-19
+608,DM,Dipodomys Merriami,2,19,1978,8,17.0,,16.0,,,,,,F,,,1978-02-19
+610,DM,Dipodomys Merriami,2,19,1978,8,17.0,,21.0,,,,,,M,,,1978-02-19
+616,DM,Dipodomys Merriami,2,19,1978,8,11.0,,43.0,,,,,,M,,,1978-02-19
+617,DM,Dipodomys Merriami,2,19,1978,8,11.0,,44.0,,,,,,M,,,1978-02-19
+619,DM,Dipodomys Merriami,2,19,1978,8,14.0,,46.0,,,,,,F,,,1978-02-19
+624,DM,Dipodomys Merriami,2,19,1978,8,4.0,,61.0,,,,,,M,,,1978-02-19
+625,DM,Dipodomys Merriami,2,19,1978,8,5.0,,62.0,,,,,,F,,,1978-02-19
+627,DM,Dipodomys Merriami,2,19,1978,8,17.0,,63.0,,,,,,,,,1978-02-19
+628,DM,Dipodomys Merriami,2,19,1978,8,11.0,,65.0,,,,,,,,,1978-02-19
+635,DM,Dipodomys Merriami,2,20,1978,8,15.0,,24.0,,,,,,M,,,1978-02-20
+636,DM,Dipodomys Merriami,2,20,1978,8,18.0,,24.0,,,,,,F,,,1978-02-20
+637,DM,Dipodomys Merriami,2,20,1978,8,18.0,,27.0,,,,,,F,,,1978-02-20
+638,DM,Dipodomys Merriami,2,20,1978,8,12.0,,34.0,,,,,,F,,,1978-02-20
+639,DM,Dipodomys Merriami,2,20,1978,8,1.0,,37.0,,,,,,F,,,1978-02-20
+641,DM,Dipodomys Merriami,2,20,1978,8,15.0,,42.0,,,,,,M,,,1978-02-20
+642,DM,Dipodomys Merriami,2,20,1978,8,1.0,,44.0,,,,,,M,,,1978-02-20
+643,DM,Dipodomys Merriami,2,20,1978,8,15.0,,44.0,,,,,,F,,,1978-02-20
+644,DM,Dipodomys Merriami,2,20,1978,8,18.0,,44.0,,,,,,M,,,1978-02-20
+645,DM,Dipodomys Merriami,2,20,1978,8,12.0,,56.0,,,,,,M,,,1978-02-20
+648,DM,Dipodomys Merriami,2,20,1978,8,16.0,1.0,-31.5,,,,,,F,,,1978-02-20
+649,DM,Dipodomys Merriami,2,20,1978,8,16.0,1.0,-31.5,,,,,,M,,,1978-02-20
+651,DM,Dipodomys Merriami,3,11,1978,9,20.0,,11.0,,,,,,M,,,1978-03-11
+654,DM,Dipodomys Merriami,3,11,1978,9,22.0,,21.0,,,,,,F,,,1978-03-11
+660,DM,Dipodomys Merriami,3,11,1978,9,2.0,,35.0,,,,,,M,,,1978-03-11
+664,DM,Dipodomys Merriami,3,11,1978,9,2.0,,63.0,,,,,,M,,,1978-03-11
+665,DM,Dipodomys Merriami,3,11,1978,9,20.0,,64.0,,,,,,F,,,1978-03-11
+667,DM,Dipodomys Merriami,3,11,1978,9,20.0,,67.0,,,,,,F,,,1978-03-11
+680,DM,Dipodomys Merriami,3,12,1978,9,17.0,,21.0,,,,,,M,,,1978-03-12
+684,DM,Dipodomys Merriami,3,12,1978,9,4.0,,32.0,,,,,,M,,,1978-03-12
+690,DM,Dipodomys Merriami,3,12,1978,9,11.0,,44.0,,,,,,M,,,1978-03-12
+692,DM,Dipodomys Merriami,3,12,1978,9,14.0,,45.0,,,,,,,,,1978-03-12
+694,DM,Dipodomys Merriami,3,12,1978,9,11.0,,46.0,,,,,,F,,,1978-03-12
+696,DM,Dipodomys Merriami,3,12,1978,9,5.0,,52.0,,,,,,F,,,1978-03-12
+697,DM,Dipodomys Merriami,3,12,1978,9,11.0,,54.0,,,,,,M,,,1978-03-12
+698,DM,Dipodomys Merriami,3,12,1978,9,14.0,,54.0,,,,,,F,,,1978-03-12
+699,DM,Dipodomys Merriami,3,12,1978,9,5.0,,55.0,,,,,,F,,,1978-03-12
+700,DM,Dipodomys Merriami,3,12,1978,9,5.0,,56.0,,,,,,M,,,1978-03-12
+702,DM,Dipodomys Merriami,3,12,1978,9,5.0,,61.0,,,,,,M,,,1978-03-12
+704,DM,Dipodomys Merriami,3,12,1978,9,5.0,,67.0,,,,,,M,,,1978-03-12
+707,DM,Dipodomys Merriami,3,12,1978,9,17.0,,74.0,,,,,,F,,,1978-03-12
+711,DM,Dipodomys Merriami,3,13,1978,9,18.0,,12.0,,,,,,F,,,1978-03-13
+712,DM,Dipodomys Merriami,3,13,1978,9,15.0,,21.0,,,,,,M,,,1978-03-13
+714,DM,Dipodomys Merriami,3,13,1978,9,15.0,,26.0,,,,,,F,,,1978-03-13
+715,DM,Dipodomys Merriami,3,13,1978,9,18.0,,26.0,,,,,,M,,,1978-03-13
+716,DM,Dipodomys Merriami,3,13,1978,9,15.0,,27.0,,,,,,M,,,1978-03-13
+717,DM,Dipodomys Merriami,3,13,1978,9,1.0,,32.0,,,,,,F,,,1978-03-13
+719,DM,Dipodomys Merriami,3,13,1978,9,18.0,,41.0,,,,,,M,,,1978-03-13
+721,DM,Dipodomys Merriami,3,13,1978,9,1.0,,56.0,,,,,,F,,,1978-03-13
+724,DM,Dipodomys Merriami,3,13,1978,9,15.0,,63.0,,,,,,M,,,1978-03-13
+726,DM,Dipodomys Merriami,3,13,1978,9,18.0,,66.0,,,,,,F,,,1978-03-13
+729,DM,Dipodomys Merriami,3,13,1978,9,15.0,1.0,-31.5,,,,,,M,,,1978-03-13
+733,DM,Dipodomys Merriami,4,8,1978,-10,2.0,9.0,-31.5,,,,,,M,,,1978-04-08
+734,DM,Dipodomys Merriami,4,8,1978,-10,6.0,9.0,-31.5,,,,,,M,,,1978-04-08
+737,DM,Dipodomys Merriami,4,8,1978,-10,9.0,9.0,-31.5,,,,,,F,,,1978-04-08
+743,DM,Dipodomys Merriami,4,8,1978,-10,20.0,9.0,-31.5,,,,,,M,,,1978-04-08
+745,DM,Dipodomys Merriami,4,8,1978,-10,22.0,9.0,-31.5,,,,,,F,,,1978-04-08
+1103,DS,Dipodomys Spectabilis,7,8,1978,13,1.0,,67.0,,,,,,F,,,1978-07-08
+1105,DS,Dipodomys Spectabilis,7,8,1978,13,4.0,,72.0,,,,,,F,,,1978-07-08
+1106,DS,Dipodomys Spectabilis,7,8,1978,13,4.0,,73.0,,,,,,M,,,1978-07-08
+1107,DS,Dipodomys Spectabilis,8,4,1978,14,12.0,,12.0,,,,,,F,,,1978-08-04
+1111,DS,Dipodomys Spectabilis,8,4,1978,14,8.0,,15.0,,,,,,F,,,1978-08-04
+1115,DS,Dipodomys Spectabilis,8,4,1978,14,12.0,,21.0,,,,,,F,,,1978-08-04
+1118,DS,Dipodomys Spectabilis,8,4,1978,14,17.0,,24.0,,,,,,F,,,1978-08-04
+1122,DS,Dipodomys Spectabilis,8,4,1978,14,11.0,,31.0,,,,,,M,,,1978-08-04
+1128,DS,Dipodomys Spectabilis,8,4,1978,14,22.0,,42.0,,,,,,F,,,1978-08-04
+1130,DS,Dipodomys Spectabilis,8,4,1978,14,17.0,,51.0,,,,,,M,,,1978-08-04
+1133,DS,Dipodomys Spectabilis,8,4,1978,14,12.0,,55.0,,,,,,M,,,1978-08-04
+1141,DS,Dipodomys Spectabilis,8,4,1978,14,9.0,,71.0,,,,,,F,,,1978-08-04
+1143,DS,Dipodomys Spectabilis,8,4,1978,14,11.0,,76.0,,,,,,F,,,1978-08-04
+1151,DS,Dipodomys Spectabilis,8,5,1978,14,2.0,,14.0,,,,,,M,,,1978-08-05
+1153,DS,Dipodomys Spectabilis,8,5,1978,14,18.0,,14.0,,,,,,M,,,1978-08-05
+1155,DS,Dipodomys Spectabilis,8,5,1978,14,6.0,,15.0,,,,,,F,,,1978-08-05
+1156,DS,Dipodomys Spectabilis,8,5,1978,14,18.0,,16.0,,,,,,M,,,1978-08-05
+1158,DS,Dipodomys Spectabilis,8,5,1978,14,5.0,,17.0,,,,,,F,,,1978-08-05
+1160,DS,Dipodomys Spectabilis,8,5,1978,14,14.0,,25.0,,,,,,F,,,1978-08-05
+1162,DS,Dipodomys Spectabilis,8,5,1978,14,5.0,,34.0,,,,,,M,,,1978-08-05
+1163,DS,Dipodomys Spectabilis,8,5,1978,14,18.0,,35.0,,,,,,F,,,1978-08-05
+1165,DS,Dipodomys Spectabilis,8,5,1978,14,13.0,,41.0,,,,,,F,,,1978-08-05
+1166,DS,Dipodomys Spectabilis,8,5,1978,14,4.0,,42.0,,,,,,M,,,1978-08-05
+1169,DS,Dipodomys Spectabilis,8,5,1978,14,1.0,,44.0,,,,,,M,,,1978-08-05
+1171,DS,Dipodomys Spectabilis,8,5,1978,14,1.0,,46.0,,,,,,,,,1978-08-05
+1172,DS,Dipodomys Spectabilis,8,5,1978,14,6.0,,52.0,,,,,,F,,,1978-08-05
+1180,DS,Dipodomys Spectabilis,8,5,1978,14,4.0,,61.0,,,,,,F,,,1978-08-05
+1182,DS,Dipodomys Spectabilis,8,5,1978,14,1.0,,64.0,,,,,,F,,,1978-08-05
+1185,DS,Dipodomys Spectabilis,8,5,1978,14,1.0,,66.0,,,,,,F,,,1978-08-05
+1186,DS,Dipodomys Spectabilis,8,5,1978,14,4.0,,66.0,,,,,,F,,,1978-08-05
+1188,DS,Dipodomys Spectabilis,8,5,1978,14,1.0,,67.0,,,,,,M,,,1978-08-05
+1189,DS,Dipodomys Spectabilis,8,5,1978,14,4.0,,71.0,,,,,,F,,,1978-08-05
+1191,DS,Dipodomys Spectabilis,8,5,1978,14,5.0,,76.0,,,,,,F,,,1978-08-05
+1199,DS,Dipodomys Spectabilis,9,3,1978,15,12.0,,21.0,,,,,,M,,,1978-09-03
+1200,DS,Dipodomys Spectabilis,9,3,1978,15,11.0,,22.0,,,,,,M,,,1978-09-03
+1205,DS,Dipodomys Spectabilis,9,3,1978,15,8.0,,25.0,,,,,,F,,,1978-09-03
+1209,DS,Dipodomys Spectabilis,9,3,1978,15,12.0,,31.0,,,,,,F,,,1978-09-03
+1211,DS,Dipodomys Spectabilis,9,3,1978,15,9.0,,32.0,,,,,,F,,,1978-09-03
+1212,DS,Dipodomys Spectabilis,9,3,1978,15,17.0,,32.0,,,,,,F,,,1978-09-03
+1213,DS,Dipodomys Spectabilis,9,3,1978,15,22.0,,32.0,,,,,,F,,,1978-09-03
+1223,DS,Dipodomys Spectabilis,9,3,1978,15,22.0,,45.0,,,,,,F,,,1978-09-03
+1224,DS,Dipodomys Spectabilis,9,3,1978,15,17.0,,52.0,,,,,,M,,,1978-09-03
+1225,DS,Dipodomys Spectabilis,9,3,1978,15,9.0,,53.0,,,,,,F,,,1978-09-03
+1231,DS,Dipodomys Spectabilis,9,3,1978,15,20.0,,56.0,,,,,,M,,,1978-09-03
+1234,DS,Dipodomys Spectabilis,9,3,1978,15,8.0,,63.0,,,,,,F,,,1978-09-03
+1238,DS,Dipodomys Spectabilis,9,3,1978,15,22.0,,67.0,,,,,,F,,,1978-09-03
+1239,DS,Dipodomys Spectabilis,9,3,1978,15,12.0,,71.0,,,,,,F,,,1978-09-03
+1243,DS,Dipodomys Spectabilis,9,3,1978,15,9.0,,73.0,,,,,,F,,,1978-09-03
+1244,DS,Dipodomys Spectabilis,9,3,1978,15,11.0,,73.0,,,,,,F,,,1978-09-03
+1254,DS,Dipodomys Spectabilis,9,4,1978,15,18.0,,16.0,,,,,,M,,,1978-09-04
+1260,DS,Dipodomys Spectabilis,9,4,1978,15,18.0,,25.0,,,,,,F,,,1978-09-04
+1263,DS,Dipodomys Spectabilis,9,4,1978,15,13.0,,27.0,,,,,,F,,,1978-09-04
+1266,DS,Dipodomys Spectabilis,9,4,1978,15,2.0,,34.0,,,,,,M,,,1978-09-04
+1267,DS,Dipodomys Spectabilis,9,4,1978,15,4.0,,35.0,,,,,,M,,,1978-09-04
+1268,DS,Dipodomys Spectabilis,9,4,1978,15,1.0,,37.0,,,,,,F,,,1978-09-04
+1271,DS,Dipodomys Spectabilis,9,4,1978,15,1.0,,43.0,,,,,,M,,,1978-09-04
+1273,DS,Dipodomys Spectabilis,9,4,1978,15,14.0,,44.0,,,,,,F,,,1978-09-04
+1274,DS,Dipodomys Spectabilis,9,4,1978,15,6.0,,46.0,,,,,,F,,,1978-09-04
+1278,DS,Dipodomys Spectabilis,9,4,1978,15,6.0,,51.0,,,,,,F,,,1978-09-04
+1280,DS,Dipodomys Spectabilis,9,4,1978,15,5.0,,54.0,,,,,,M,,,1978-09-04
+1287,DS,Dipodomys Spectabilis,9,4,1978,15,13.0,,61.0,,,,,,F,,,1978-09-04
+1292,DS,Dipodomys Spectabilis,9,4,1978,15,4.0,,67.0,,,,,,F,,,1978-09-04
+1293,DS,Dipodomys Spectabilis,9,4,1978,15,5.0,,67.0,,,,,,F,,,1978-09-04
+1296,DS,Dipodomys Spectabilis,9,4,1978,15,1.0,,73.0,,,,,,F,,,1978-09-04
+1297,DS,Dipodomys Spectabilis,9,4,1978,15,4.0,,73.0,,,,,,F,,,1978-09-04
+1298,DS,Dipodomys Spectabilis,9,4,1978,15,5.0,,73.0,,,,,,F,,,1978-09-04
+1305,DS,Dipodomys Spectabilis,10,6,1978,16,1.0,,36.0,,,,,,F,,,1978-10-06
+1307,DS,Dipodomys Spectabilis,10,6,1978,16,1.0,,43.0,,,,,,M,,,1978-10-06
+1308,DS,Dipodomys Spectabilis,10,6,1978,16,1.0,,74.0,,,,,,F,,,1978-10-06
+1314,DS,Dipodomys Spectabilis,10,7,1978,16,8.0,,15.0,,,,,,F,,,1978-10-07
+1315,DS,Dipodomys Spectabilis,10,7,1978,16,11.0,,15.0,,,,,,M,,,1978-10-07
+1323,DS,Dipodomys Spectabilis,10,7,1978,16,22.0,,31.0,,,,,,F,,,1978-10-07
+1325,DS,Dipodomys Spectabilis,10,7,1978,16,9.0,,33.0,,,,,,F,,,1978-10-07
+1326,DS,Dipodomys Spectabilis,10,7,1978,16,20.0,,34.0,,,,,,M,,,1978-10-07
+1330,DS,Dipodomys Spectabilis,10,7,1978,16,17.0,,41.0,,,,,,M,,,1978-10-07
+1331,DS,Dipodomys Spectabilis,10,7,1978,16,9.0,,46.0,,,,,,M,,,1978-10-07
+1333,DS,Dipodomys Spectabilis,10,7,1978,16,17.0,,53.0,,,,,,F,,,1978-10-07
+1334,DS,Dipodomys Spectabilis,10,7,1978,16,12.0,,54.0,,,,,,F,,,1978-10-07
+1335,DS,Dipodomys Spectabilis,10,7,1978,16,9.0,,55.0,,,,,,F,,,1978-10-07
+1336,DS,Dipodomys Spectabilis,10,7,1978,16,22.0,,56.0,,,,,,F,,,1978-10-07
+1338,DS,Dipodomys Spectabilis,10,7,1978,16,8.0,,63.0,,,,,,F,,,1978-10-07
+1340,DS,Dipodomys Spectabilis,10,7,1978,16,11.0,,66.0,,,,,,F,,,1978-10-07
+1342,DS,Dipodomys Spectabilis,10,7,1978,16,9.0,,72.0,,,,,,F,,,1978-10-07
+1358,DS,Dipodomys Spectabilis,10,8,1978,16,5.0,,17.0,,,,,,M,,,1978-10-08
+1360,DS,Dipodomys Spectabilis,10,8,1978,16,18.0,,17.0,,,,,,M,,,1978-10-08
+1363,DS,Dipodomys Spectabilis,10,8,1978,16,18.0,,33.0,,,,,,M,,,1978-10-08
+1364,DS,Dipodomys Spectabilis,10,8,1978,16,14.0,,34.0,,,,,,F,,,1978-10-08
+1365,DS,Dipodomys Spectabilis,10,8,1978,16,2.0,,35.0,,,,,,M,,,1978-10-08
+1367,DS,Dipodomys Spectabilis,10,8,1978,16,6.0,,37.0,,,,,,F,,,1978-10-08
+1371,DS,Dipodomys Spectabilis,10,8,1978,16,4.0,,44.0,,,,,,M,,,1978-10-08
+1373,DS,Dipodomys Spectabilis,10,8,1978,16,18.0,,44.0,,,,,,F,,,1978-10-08
+1376,DS,Dipodomys Spectabilis,10,8,1978,16,6.0,,52.0,,,,,,F,,,1978-10-08
+1384,DS,Dipodomys Spectabilis,10,8,1978,16,13.0,,64.0,,,,,,F,,,1978-10-08
+1387,DS,Dipodomys Spectabilis,10,8,1978,16,4.0,,71.0,,,,,,F,,,1978-10-08
+1398,DS,Dipodomys Spectabilis,11,4,1978,17,17.0,,11.0,,,,,,F,,,1978-11-04
+1399,DS,Dipodomys Spectabilis,11,4,1978,17,12.0,,12.0,,,,,,F,,,1978-11-04
+1401,DS,Dipodomys Spectabilis,11,4,1978,17,8.0,,16.0,,,,,,F,,,1978-11-04
+1403,DS,Dipodomys Spectabilis,11,4,1978,17,1.0,,23.0,,,,,,M,,,1978-11-04
+1404,DS,Dipodomys Spectabilis,11,4,1978,17,1.0,,25.0,,,,,,F,,,1978-11-04
+1411,DS,Dipodomys Spectabilis,11,4,1978,17,9.0,,43.0,,,,,,F,,,1978-11-04
+1412,DS,Dipodomys Spectabilis,11,4,1978,17,9.0,,46.0,,,,,,M,,,1978-11-04
+1414,DS,Dipodomys Spectabilis,11,4,1978,17,17.0,,52.0,,,,,,M,,,1978-11-04
+1422,DS,Dipodomys Spectabilis,11,4,1978,17,1.0,,64.0,,,,,,M,,,1978-11-04
+1423,DS,Dipodomys Spectabilis,11,4,1978,17,9.0,,64.0,,,,,,F,,,1978-11-04
+1425,DS,Dipodomys Spectabilis,11,4,1978,17,22.0,,65.0,,,,,,F,,,1978-11-04
+1429,DS,Dipodomys Spectabilis,11,4,1978,17,20.0,,72.0,,,,,,M,,,1978-11-04
+1431,DS,Dipodomys Spectabilis,11,4,1978,17,9.0,,74.0,,,,,,F,,,1978-11-04
+1447,DS,Dipodomys Spectabilis,11,5,1978,17,6.0,,25.0,,,,,,F,,,1978-11-05
+1449,DS,Dipodomys Spectabilis,11,5,1978,17,5.0,,33.0,,,,,,M,,,1978-11-05
+1450,DS,Dipodomys Spectabilis,11,5,1978,17,13.0,,33.0,,,,,,F,,,1978-11-05
+1451,DS,Dipodomys Spectabilis,11,5,1978,17,18.0,,34.0,,,,,,M,,,1978-11-05
+1452,DS,Dipodomys Spectabilis,11,5,1978,17,18.0,,35.0,,,,,,F,,,1978-11-05
+1454,DS,Dipodomys Spectabilis,11,5,1978,17,4.0,,37.0,,,,,,M,,,1978-11-05
+1459,DS,Dipodomys Spectabilis,11,5,1978,17,6.0,,52.0,,,,,,F,,,1978-11-05
+1463,DS,Dipodomys Spectabilis,11,5,1978,17,14.0,,63.0,,,,,,F,,,1978-11-05
+1484,DS,Dipodomys Spectabilis,12,2,1978,18,9.0,,16.0,,,,,,F,,,1978-12-02
+1488,DS,Dipodomys Spectabilis,12,2,1978,18,17.0,,23.0,,,,,,F,,,1978-12-02
+1497,DS,Dipodomys Spectabilis,12,2,1978,18,20.0,,35.0,,,,,,M,,,1978-12-02
+1499,DS,Dipodomys Spectabilis,12,2,1978,18,9.0,,45.0,,,,,,F,,,1978-12-02
+1501,DS,Dipodomys Spectabilis,12,2,1978,18,8.0,,53.0,,,,,,F,,,1978-12-02
+1502,DS,Dipodomys Spectabilis,12,2,1978,18,9.0,,53.0,,,,,,F,,,1978-12-02
+1503,DS,Dipodomys Spectabilis,12,2,1978,18,22.0,,53.0,,,,,,F,,,1978-12-02
+1504,DS,Dipodomys Spectabilis,12,2,1978,18,12.0,,55.0,,,,,,F,,,1978-12-02
+1509,DS,Dipodomys Spectabilis,12,2,1978,18,22.0,,66.0,,,,,,F,,,1978-12-02
+1520,DS,Dipodomys Spectabilis,12,3,1978,18,14.0,,14.0,,,,,,F,,,1978-12-03
+1521,DS,Dipodomys Spectabilis,12,3,1978,18,6.0,,15.0,,,,,,F,,,1978-12-03
+1525,DS,Dipodomys Spectabilis,12,3,1978,18,18.0,,41.0,,,,,,M,,,1978-12-03
+1526,DS,Dipodomys Spectabilis,12,3,1978,18,18.0,,46.0,,,,,,F,,,1978-12-03
+1527,DS,Dipodomys Spectabilis,12,3,1978,18,6.0,,52.0,,,,,,F,,,1978-12-03
+1531,DS,Dipodomys Spectabilis,12,3,1978,18,4.0,,57.0,,,,,,M,,,1978-12-03
+1537,DS,Dipodomys Spectabilis,12,3,1978,18,5.0,,65.0,,,,,,M,,,1978-12-03
+1540,DS,Dipodomys Spectabilis,12,3,1978,18,13.0,,66.0,,,,,,F,,,1978-12-03
+1553,DS,Dipodomys Spectabilis,1,28,1979,19,8.0,,14.0,,,,,,F,,,1979-01-28
+1582,DS,Dipodomys Spectabilis,1,29,1979,19,6.0,,33.0,,,,,,F,,,1979-01-29
+1588,DS,Dipodomys Spectabilis,1,29,1979,19,18.0,,44.0,,,,,,M,,,1979-01-29
+1589,DS,Dipodomys Spectabilis,1,29,1979,19,4.0,,45.0,,,,,,M,,,1979-01-29
+1592,DS,Dipodomys Spectabilis,1,29,1979,19,18.0,,55.0,,,,,,F,,,1979-01-29
+1601,DS,Dipodomys Spectabilis,1,29,1979,19,14.0,,65.0,,,,,,F,,,1979-01-29
+1625,DS,Dipodomys Spectabilis,2,24,1979,20,12.0,,35.0,,,,,,F,,,1979-02-24
+1627,DS,Dipodomys Spectabilis,2,24,1979,20,8.0,,37.0,,,,,,M,,,1979-02-24
+1630,DS,Dipodomys Spectabilis,2,24,1979,20,8.0,,53.0,,,,,,F,,,1979-02-24
+1631,DS,Dipodomys Spectabilis,2,24,1979,20,22.0,,53.0,,,,,,F,,,1979-02-24
+1633,DS,Dipodomys Spectabilis,2,24,1979,20,17.0,,55.0,,,,,,F,,,1979-02-24
+1637,DS,Dipodomys Spectabilis,2,24,1979,20,9.0,,73.0,,,,,,F,,,1979-02-24
+1638,DS,Dipodomys Spectabilis,2,24,1979,20,20.0,,77.0,,,,,,F,,,1979-02-24
+1647,DS,Dipodomys Spectabilis,2,25,1979,20,5.0,,26.0,,,,,,M,,,1979-02-25
+1649,DS,Dipodomys Spectabilis,2,25,1979,20,18.0,,31.0,,,,,,M,,,1979-02-25
+1652,DS,Dipodomys Spectabilis,2,25,1979,20,18.0,,43.0,,,,,,F,,,1979-02-25
+1655,DS,Dipodomys Spectabilis,2,25,1979,20,6.0,,52.0,,,,,,F,,,1979-02-25
+1656,DS,Dipodomys Spectabilis,2,25,1979,20,1.0,,53.0,,,,,,M,,,1979-02-25
+1658,DS,Dipodomys Spectabilis,2,25,1979,20,4.0,,57.0,,,,,,M,,,1979-02-25
+1659,DS,Dipodomys Spectabilis,2,25,1979,20,13.0,,61.0,,,,,,M,,,1979-02-25
+1660,DS,Dipodomys Spectabilis,2,25,1979,20,14.0,,62.0,,,,,,F,,,1979-02-25
+1671,DS,Dipodomys Spectabilis,3,31,1979,21,12.0,,12.0,,,,,,M,,,1979-03-31
+1673,DS,Dipodomys Spectabilis,3,31,1979,21,2.0,,15.0,,,,,,F,,,1979-03-31
+1678,DS,Dipodomys Spectabilis,3,31,1979,21,14.0,,22.0,,,,,,F,,,1979-03-31
+1680,DS,Dipodomys Spectabilis,3,31,1979,21,14.0,,24.0,,,,,,F,,,1979-03-31
+1681,DS,Dipodomys Spectabilis,3,31,1979,21,5.0,,26.0,,,,,,M,,,1979-03-31
+1683,DS,Dipodomys Spectabilis,3,31,1979,21,17.0,,31.0,,,,,,M,,,1979-03-31
+1684,DS,Dipodomys Spectabilis,3,31,1979,21,12.0,,32.0,,,,,,F,,,1979-03-31
+1685,DS,Dipodomys Spectabilis,3,31,1979,21,14.0,,33.0,,,,,,F,,,1979-03-31
+1689,DS,Dipodomys Spectabilis,3,31,1979,21,18.0,,42.0,,,,,,M,,,1979-03-31
+1690,DS,Dipodomys Spectabilis,3,31,1979,21,18.0,,45.0,,,,,,M,,,1979-03-31
+1693,DS,Dipodomys Spectabilis,3,31,1979,21,22.0,,52.0,,,,,,F,,,1979-03-31
+1694,DS,Dipodomys Spectabilis,3,31,1979,21,8.0,,53.0,,,,,,F,,,1979-03-31
+1695,DS,Dipodomys Spectabilis,3,31,1979,21,1.0,,54.0,,,,,,M,,,1979-03-31
+1696,DS,Dipodomys Spectabilis,3,31,1979,21,9.0,,54.0,,,,,,F,,,1979-03-31
+1697,DS,Dipodomys Spectabilis,3,31,1979,21,1.0,,56.0,,,,,,M,,,1979-03-31
+1698,DS,Dipodomys Spectabilis,3,31,1979,21,18.0,,56.0,,,,,,M,,,1979-03-31
+1703,DS,Dipodomys Spectabilis,3,31,1979,21,17.0,,63.0,,,,,,F,,,1979-03-31
+1704,DS,Dipodomys Spectabilis,3,31,1979,21,9.0,,64.0,,,,,,F,,,1979-03-31
+1705,DS,Dipodomys Spectabilis,3,31,1979,21,9.0,,66.0,,,,,,F,,,1979-03-31
+1708,DS,Dipodomys Spectabilis,3,31,1979,21,13.0,,71.0,,,,,,F,,,1979-03-31
+1710,DS,Dipodomys Spectabilis,3,31,1979,21,11.0,,74.0,,,,,,M,,,1979-03-31
+1713,DS,Dipodomys Spectabilis,3,31,1979,21,13.0,,76.0,,,,,,F,,,1979-03-31
+1714,DS,Dipodomys Spectabilis,3,31,1979,21,4.0,,77.0,,,,,,M,,,1979-03-31
+1726,DS,Dipodomys Spectabilis,4,28,1979,22,12.0,,12.0,,,,,,M,,,1979-04-28
+1727,DS,Dipodomys Spectabilis,4,28,1979,22,12.0,,13.0,,,,,,F,,,1979-04-28
+1728,DS,Dipodomys Spectabilis,4,28,1979,22,12.0,,14.0,,,,,,F,,,1979-04-28
+1732,DS,Dipodomys Spectabilis,4,28,1979,22,22.0,,41.0,,,,,,F,,,1979-04-28
+1733,DS,Dipodomys Spectabilis,4,28,1979,22,1.0,,42.0,,,,,,M,,,1979-04-28
+1735,DS,Dipodomys Spectabilis,4,28,1979,22,1.0,,46.0,,,,,,F,,,1979-04-28
+1736,DS,Dipodomys Spectabilis,4,28,1979,22,22.0,,46.0,,,,,,M,,,1979-04-28
+1737,DS,Dipodomys Spectabilis,4,28,1979,22,9.0,,47.0,,,,,,F,,,1979-04-28
+1738,DS,Dipodomys Spectabilis,4,28,1979,22,8.0,,52.0,,,,,,F,,,1979-04-28
+1739,DS,Dipodomys Spectabilis,4,28,1979,22,17.0,,52.0,,,,,,M,,,1979-04-28
+1740,DS,Dipodomys Spectabilis,4,28,1979,22,9.0,,54.0,,,,,,M,,,1979-04-28
+1741,DS,Dipodomys Spectabilis,4,28,1979,22,9.0,,56.0,,,,,,F,,,1979-04-28
+1742,DS,Dipodomys Spectabilis,4,28,1979,22,9.0,,57.0,,,,,,F,,,1979-04-28
+1744,DS,Dipodomys Spectabilis,4,28,1979,22,20.0,,62.0,,,,,,M,,,1979-04-28
+1745,DS,Dipodomys Spectabilis,4,28,1979,22,17.0,,63.0,,,,,,F,,,1979-04-28
+1747,DS,Dipodomys Spectabilis,4,28,1979,22,20.0,,67.0,,,,,,F,,,1979-04-28
+1748,DS,Dipodomys Spectabilis,4,28,1979,22,9.0,,71.0,,,,,,M,,,1979-04-28
+1749,DS,Dipodomys Spectabilis,4,28,1979,22,9.0,,74.0,,,,,,F,,,1979-04-28
+1759,DS,Dipodomys Spectabilis,4,29,1979,22,14.0,,33.0,,,,,,M,,,1979-04-29
+1761,DS,Dipodomys Spectabilis,4,29,1979,22,5.0,,37.0,,,,,,M,,,1979-04-29
+1764,DS,Dipodomys Spectabilis,4,29,1979,22,13.0,,41.0,,,,,,M,,,1979-04-29
+1766,DS,Dipodomys Spectabilis,4,29,1979,22,14.0,,43.0,,,,,,M,,,1979-04-29
+1770,DS,Dipodomys Spectabilis,4,29,1979,22,18.0,,54.0,,,,,,M,,,1979-04-29
+1772,DS,Dipodomys Spectabilis,4,29,1979,22,13.0,,61.0,,,,,,F,,,1979-04-29
+1773,DS,Dipodomys Spectabilis,4,29,1979,22,4.0,,71.0,,,,,,F,,,1979-04-29
+1774,DS,Dipodomys Spectabilis,4,29,1979,22,5.0,,73.0,,,,,,M,,,1979-04-29
+1781,DS,Dipodomys Spectabilis,5,29,1979,23,9.0,,12.0,,,,,,F,,,1979-05-29
+1783,DS,Dipodomys Spectabilis,5,29,1979,23,12.0,,21.0,,,,,,M,,,1979-05-29
+1786,DS,Dipodomys Spectabilis,5,29,1979,23,22.0,,26.0,,,,,,M,,,1979-05-29
+1787,DS,Dipodomys Spectabilis,5,29,1979,23,17.0,,31.0,,,,,,F,,,1979-05-29
+1791,DS,Dipodomys Spectabilis,5,29,1979,23,17.0,,34.0,,,,,,M,,,1979-05-29
+1792,DS,Dipodomys Spectabilis,5,29,1979,23,9.0,,36.0,,,,,,F,,,1979-05-29
+1793,DS,Dipodomys Spectabilis,5,29,1979,23,22.0,,37.0,,,,,,M,,,1979-05-29
+1794,DS,Dipodomys Spectabilis,5,29,1979,23,9.0,,43.0,,,,,,F,,,1979-05-29
+1795,DS,Dipodomys Spectabilis,5,29,1979,23,17.0,,43.0,,,,,,F,,,1979-05-29
+1797,DS,Dipodomys Spectabilis,5,29,1979,23,9.0,,46.0,,,,,,F,,,1979-05-29
+1799,DS,Dipodomys Spectabilis,5,29,1979,23,17.0,,51.0,,,,,,M,,,1979-05-29
+1800,DS,Dipodomys Spectabilis,5,29,1979,23,9.0,,53.0,,,,,,F,,,1979-05-29
+1801,DS,Dipodomys Spectabilis,5,29,1979,23,17.0,,53.0,,,,,,,,,1979-05-29
+1802,DS,Dipodomys Spectabilis,5,29,1979,23,22.0,,53.0,,,,,,F,,,1979-05-29
+1803,DS,Dipodomys Spectabilis,5,29,1979,23,9.0,,54.0,,,,,,M,,,1979-05-29
+1804,DS,Dipodomys Spectabilis,5,29,1979,23,20.0,,55.0,,,,,,M,,,1979-05-29
+1806,DS,Dipodomys Spectabilis,5,29,1979,23,8.0,,61.0,,,,,,F,,,1979-05-29
+1810,DS,Dipodomys Spectabilis,5,29,1979,23,22.0,,67.0,,,,,,F,,,1979-05-29
+1812,DS,Dipodomys Spectabilis,5,29,1979,23,20.0,,75.0,,,,,,M,,,1979-05-29
+1814,DS,Dipodomys Spectabilis,5,29,1979,23,20.0,,77.0,,,,,,F,,,1979-05-29
+1821,DS,Dipodomys Spectabilis,5,30,1979,23,18.0,,25.0,,,,,,F,,,1979-05-30
+1824,DS,Dipodomys Spectabilis,5,30,1979,23,5.0,,35.0,,,,,,F,,,1979-05-30
+1827,DS,Dipodomys Spectabilis,5,30,1979,23,14.0,,43.0,,,,,,,,,1979-05-30
+1828,DS,Dipodomys Spectabilis,5,30,1979,23,18.0,,43.0,,,,,,M,,,1979-05-30
+1829,DS,Dipodomys Spectabilis,5,30,1979,23,1.0,,47.0,,,,,,F,,,1979-05-30
+1832,DS,Dipodomys Spectabilis,5,30,1979,23,13.0,,53.0,,,,,,F,,,1979-05-30
+1835,DS,Dipodomys Spectabilis,5,30,1979,23,5.0,,61.0,,,,,,M,,,1979-05-30
+1836,DS,Dipodomys Spectabilis,5,30,1979,23,1.0,,62.0,,,,,,M,,,1979-05-30
+1837,DS,Dipodomys Spectabilis,5,30,1979,23,4.0,,62.0,,,,,,F,,,1979-05-30
+1838,DS,Dipodomys Spectabilis,5,30,1979,23,14.0,,62.0,,,,,,F,,,1979-05-30
+1840,DS,Dipodomys Spectabilis,5,30,1979,23,1.0,,66.0,,,,,,M,,,1979-05-30
+1841,DS,Dipodomys Spectabilis,5,30,1979,23,14.0,,66.0,,,,,,M,,,1979-05-30
+1853,DS,Dipodomys Spectabilis,7,3,1979,24,12.0,,11.0,,,,,,M,,,1979-07-03
+1857,DS,Dipodomys Spectabilis,7,3,1979,24,9.0,,45.0,,,,,,F,,,1979-07-03
+1859,DS,Dipodomys Spectabilis,7,3,1979,24,22.0,,46.0,,,,,,M,,,1979-07-03
+1861,DS,Dipodomys Spectabilis,7,3,1979,24,9.0,,51.0,,,,,,F,,,1979-07-03
+1862,DS,Dipodomys Spectabilis,7,3,1979,24,17.0,,51.0,,,,,,M,,,1979-07-03
+1864,DS,Dipodomys Spectabilis,7,3,1979,24,8.0,,53.0,,,,,,F,,,1979-07-03
+35097,OT,Onychomys Torridus,11,10,2002,279,11.0,,24.0,,,,,,M,,,2002-11-10
+35099,OT,Onychomys Torridus,11,10,2002,279,9.0,,62.0,,,,,,F,,,2002-11-10
+35123,OT,Onychomys Torridus,11,10,2002,279,4.0,,22.0,,,,,,M,,,2002-11-10
+35132,OT,Onychomys Torridus,11,10,2002,279,9.0,,11.0,,,,,,M,,,2002-11-10
+35140,OT,Onychomys Torridus,11,10,2002,279,8.0,,21.0,,,,,,F,,,2002-11-10
+35146,OT,Onychomys Torridus,11,10,2002,279,8.0,,16.0,,,,,,M,,,2002-11-10
+35156,OT,Onychomys Torridus,11,10,2002,279,13.0,,45.0,,,,,,M,,,2002-11-10
+35161,OT,Onychomys Torridus,11,10,2002,279,13.0,,13.0,,,,,,F,,,2002-11-10
+35163,OT,Onychomys Torridus,11,10,2002,279,13.0,,22.0,,,,,,M,,,2002-11-10
+35185,OT,Onychomys Torridus,11,10,2002,279,16.0,,62.0,,,,,,F,,,2002-11-10
+35187,OT,Onychomys Torridus,11,10,2002,279,5.0,,21.0,,,,,,F,,,2002-11-10
+35190,OT,Onychomys Torridus,12,7,2002,279,1.0,,14.0,,,,,,M,,,2002-12-07
+35192,OT,Onychomys Torridus,12,7,2002,279,1.0,,21.0,,,,,,F,,,2002-12-07
+35198,OT,Onychomys Torridus,12,7,2002,279,1.0,,57.0,,,,,,M,,,2002-12-07
+35204,OT,Onychomys Torridus,12,7,2002,279,2.0,3.0,29.0,,,,,,M,,,2002-12-07
+35213,OT,Onychomys Torridus,12,7,2002,279,17.0,,77.0,,,,,,M,,,2002-12-07
+35269,OT,Onychomys Torridus,12,7,2002,279,20.0,,53.0,,,,,,M,,,2002-12-07
+35279,OT,Onychomys Torridus,12,7,2002,279,16.0,,45.0,,,,,,F,,,2002-12-07
+35282,OT,Onychomys Torridus,12,7,2002,279,23.0,,32.0,,,,,,M,,,2002-12-07
+35305,OT,Onychomys Torridus,12,8,2002,279,4.0,,26.0,,,,,,M,,,2002-12-08
+35306,OT,Onychomys Torridus,12,8,2002,279,4.0,,17.0,,,,,,F,,,2002-12-08
+35307,OT,Onychomys Torridus,12,8,2002,279,6.0,,54.0,,,,,,M,,,2002-12-08
+35320,OT,Onychomys Torridus,12,8,2002,279,6.0,,37.0,,,,,,F,,,2002-12-08
+35330,OT,Onychomys Torridus,12,8,2002,279,11.0,,45.0,,,,,,F,,,2002-12-08
+35337,OT,Onychomys Torridus,12,8,2002,279,9.0,,71.0,,,,,,M,,,2002-12-08
+35342,OT,Onychomys Torridus,12,8,2002,279,9.0,,67.0,,,,,,F,,,2002-12-08
+35354,OT,Onychomys Torridus,12,8,2002,279,8.0,,21.0,,,,,,M,,,2002-12-08
+35360,OT,Onychomys Torridus,12,8,2002,279,13.0,,62.0,,,,,,M,,,2002-12-08
+35384,OT,Onychomys Torridus,12,8,2002,279,5.0,,75.0,,,,,,F,,,2002-12-08
+35387,OT,Onychomys Torridus,12,29,2002,279,1.0,,51.0,,,,,,M,,,2002-12-29
+35395,OT,Onychomys Torridus,12,29,2002,279,2.0,,57.0,,,,,,M,,,2002-12-29
+35449,OT,Onychomys Torridus,12,29,2002,279,20.0,,16.0,,,,,,F,,,2002-12-29
+35480,OT,Onychomys Torridus,12,29,2002,279,16.0,,37.0,,,,,,F,,,2002-12-29
+35484,OT,Onychomys Torridus,12,29,2002,279,16.0,,54.0,,,,,,M,,,2002-12-29
+35495,OT,Onychomys Torridus,12,31,2002,279,3.0,,72.0,,,,,,F,,,2002-12-31
+35505,OT,Onychomys Torridus,12,31,2002,279,6.0,,57.0,,,,,,F,,,2002-12-31
+35526,OT,Onychomys Torridus,12,31,2002,279,8.0,,12.0,,,,,,F,,,2002-12-31
+35530,OT,Onychomys Torridus,12,31,2002,279,13.0,,22.0,,,,,,F,,,2002-12-31
+70,OX,Onychomys�Sp.,8,19,1977,2,3.0,,57.0,,,,,,F,,,1977-08-19
+117,OX,Onychomys�Sp.,8,21,1977,2,21.0,,13.0,,,,,,F,,,1977-08-21
+166,OX,Onychomys�Sp.,9,11,1977,3,21.0,,27.0,,,,,,M,,,1977-09-11
+177,OX,Onychomys�Sp.,9,11,1977,3,5.0,,63.0,,,,,,F,,,1977-09-11
+185,OX,Onychomys�Sp.,9,11,1977,3,12.0,,77.0,,,,,,F,,,1977-09-11
+242,OX,Onychomys�Sp.,9,13,1977,3,2.0,,77.0,,,,,,M,,,1977-09-13
+333,OX,Onychomys�Sp.,10,18,1977,4,19.0,,22.0,,,,,,,,,1977-10-18
+587,OX,Onychomys�Sp.,2,18,1978,8,2.0,,16.0,,,,,,,,,1978-02-18
+6609,OX,Onychomys�Sp.,9,19,1982,62,19.0,,21.0,,,,,,M,,,1982-09-19
+9209,OX,Onychomys�Sp.,5,27,1984,79,14.0,,33.0,,,,,,M,,,1984-05-27
+16235,OX,Onychomys�Sp.,7,3,1989,136,12.0,,42.0,,,,,,M,,,1989-07-03
+20654,OX,Onychomys�Sp.,2,19,1993,180,17.0,,57.0,,,,,,,,,1993-02-19
+16854,BA,Baiomys Taylori,12,5,1989,141,3.0,,56.0,,,,,,M,,,1989-12-05
+16951,BA,Baiomys Taylori,1,7,1990,142,5.0,,41.0,,,,,,F,,,1990-01-07
+17174,BA,Baiomys Taylori,2,25,1990,144,5.0,,13.0,,,,,,M,,,1990-02-25
+17190,BA,Baiomys Taylori,2,25,1990,144,5.0,,24.0,,,,,,F,,,1990-02-25
+17374,BA,Baiomys Taylori,4,24,1990,146,1.0,,17.0,,,,,,M,,,1990-04-24
+17486,BA,Baiomys Taylori,4,26,1990,146,3.0,,77.0,,,,,,M,,,1990-04-26
+17566,BA,Baiomys Taylori,5,25,1990,147,3.0,,46.0,,,,,,F,,,1990-05-25
+17616,BA,Baiomys Taylori,6,22,1990,148,3.0,,17.0,,,,,,F,,,1990-06-22
+17773,BA,Baiomys Taylori,8,17,1990,150,3.0,,12.0,,,,,,F,,,1990-08-17
+17935,BA,Baiomys Taylori,10,16,1990,152,3.0,,63.0,,,,,,F,,,1990-10-16
+18085,BA,Baiomys Taylori,12,15,1990,154,19.0,,36.0,,,,,,F,,,1990-12-15
+18132,BA,Baiomys Taylori,12,16,1990,154,3.0,,22.0,,,,,,F,,,1990-12-16
+18252,BA,Baiomys Taylori,1,12,1991,155,3.0,,11.0,,,,,,F,,,1991-01-12
+18323,BA,Baiomys Taylori,2,16,1991,156,19.0,,21.0,,,,,,F,,,1991-02-16
+18509,BA,Baiomys Taylori,3,14,1991,157,3.0,,24.0,,,,,,F,,,1991-03-14
+18574,BA,Baiomys Taylori,4,19,1991,158,19.0,,46.0,,,,,,F,,,1991-04-19
+18604,BA,Baiomys Taylori,4,21,1991,158,3.0,,12.0,,,,,,F,,,1991-04-21
+18666,BA,Baiomys Taylori,5,13,1991,159,19.0,,45.0,,,,,,F,,,1991-05-13
+18687,BA,Baiomys Taylori,5,14,1991,159,3.0,,13.0,,,,,,F,,,1991-05-14
+18768,BA,Baiomys Taylori,6,13,1991,160,18.0,,65.0,,,,,,F,,,1991-06-13
+18778,BA,Baiomys Taylori,6,14,1991,160,3.0,,21.0,,,,,,F,,,1991-06-14
+18828,BA,Baiomys Taylori,7,12,1991,161,19.0,,27.0,,,,,,F,,,1991-07-12
+18855,BA,Baiomys Taylori,7,13,1991,161,3.0,,11.0,,,,,,F,,,1991-07-13
+18935,BA,Baiomys Taylori,8,7,1991,162,18.0,,37.0,,,,,,F,,,1991-08-07
+19015,BA,Baiomys Taylori,9,9,1991,163,19.0,,16.0,,,,,,F,,,1991-09-09
+19109,BA,Baiomys Taylori,10,10,1991,164,20.0,,27.0,,,,,,F,,,1991-10-10
+19121,BA,Baiomys Taylori,10,10,1991,164,2.0,,46.0,,,,,,M,,,1991-10-10
+19144,BA,Baiomys Taylori,10,11,1991,164,3.0,1.0,13.0,,,,,,,,,1991-10-11
+19220,BA,Baiomys Taylori,11,13,1991,165,19.0,,42.0,,,,,,F,,,1991-11-13
+19249,BA,Baiomys Taylori,11,13,1991,165,19.0,,76.0,,,,,,M,,,1991-11-13
+19256,BA,Baiomys Taylori,11,14,1991,165,3.0,,14.0,,,,,,F,,,1991-11-14
+19260,BA,Baiomys Taylori,11,14,1991,165,21.0,,17.0,,,,,,M,,,1991-11-14
+19274,BA,Baiomys Taylori,11,14,1991,165,3.0,,34.0,,,,,,F,,,1991-11-14
+22711,PB,Chaetodipus Baileyi,9,23,1995,212,1.0,,54.0,,,,,,F,,,1995-09-23
+22868,PB,Chaetodipus Baileyi,10,28,1995,213,1.0,,41.0,,,,,,F,,,1995-10-28
+15878,CS,Crotalus Scutalatus,4,1,1989,133,11.0,13.0,47.0,,,,,,,,,1989-04-01
+13313,CV,Crotalus Viridis,8,26,1987,114,15.0,13.0,61.0,,,,,,,,,1987-08-26
